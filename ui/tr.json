@@ -47,7 +47,12 @@
    "ayahOne": "ayet",
    "ayahFew": "ayet",
    "ayahMany": "ayet",
-   "pluralRule": "none"
+   "pluralRule": "none",
+   "contactDev": "Geliştiriciyle iletişime geçin",
+   "emailCopied": "E-posta kopyalandı",
+   "downloadSize": "İndirme boyutu",
+   "unitMB": "MB",
+   "unitGB": "GB"
   },
   "place": {
    "Мекканская": "Mekke",
@@ -165,7 +170,18 @@
    "deleteDownload": "İndirilen sure telefondan silinsin mi?",
    "delete": "Sil",
    "cancel": "İptal",
-   "surahsShort": "sure"
+   "surahsShort": "sure",
+   "reciter": "Kâri",
+   "surahs": "Sureler",
+   "downloadAllQ": "Bu kârinin tüm sureleri indirilsin mi? Çok yer kaplar.",
+   "deleteAllQ": "Bu kârinin indirilen sureleri silinsin mi?",
+   "size": "Boyut",
+   "allSurahsN": "Tüm sureler",
+   "left": "İndirilecek",
+   "sizeUnknown": "Boyut alınamadı",
+   "noNet": "İnternet yok",
+   "noNetHint": "İnternetsiz yalnızca indirilen sureler dinlenebilir",
+   "more": "Daha fazla"
   },
   "premium": {
    "title": "Yapay zekâ asistanlı Premium",
@@ -211,7 +227,9 @@
    "toCancel": "Evet, iptal et",
    "cancel": "Vazgeç",
    "delete": "Sil",
-   "signOut": "Çıkış yap"
+   "signOut": "Çıkış yap",
+   "subBlockTitle": "Önce aboneliğinizi iptal edin",
+   "subBlockText": "Otomatik yenilenen bir Premium aboneliğiniz var. Hesabı silmek aboneliği iptal etmez — Google Play ödeme almaya devam eder. Aboneliği Google Play’de iptal edin, ardından hesabınızı silebilirsiniz."
   }
  },
  "surahs": {

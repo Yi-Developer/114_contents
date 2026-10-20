@@ -47,7 +47,12 @@
    "ayahOne": "ayah",
    "ayahFew": "ayahs",
    "ayahMany": "ayahs",
-   "pluralRule": "en"
+   "pluralRule": "en",
+   "contactDev": "Contact the developer",
+   "emailCopied": "Email copied",
+   "downloadSize": "Download size",
+   "unitMB": "MB",
+   "unitGB": "GB"
   },
   "place": {
    "Мекканская": "Mecca",
@@ -165,7 +170,18 @@
    "deleteDownload": "Remove the downloaded surah from this phone?",
    "delete": "Remove",
    "cancel": "Cancel",
-   "surahsShort": "surahs"
+   "surahsShort": "surahs",
+   "reciter": "Reciter",
+   "surahs": "Surahs",
+   "downloadAllQ": "Download all surahs by this reciter? It takes a lot of space.",
+   "deleteAllQ": "Delete downloaded surahs by this reciter?",
+   "size": "Size",
+   "allSurahsN": "All surahs",
+   "left": "Left to download",
+   "sizeUnknown": "Could not get the size",
+   "noNet": "No internet connection",
+   "noNetHint": "Only downloaded surahs are available offline",
+   "more": "More"
   },
   "premium": {
    "title": "Premium with AI assistant",
@@ -211,7 +227,9 @@
    "toCancel": "Yes, cancel",
    "cancel": "Cancel",
    "delete": "Delete",
-   "signOut": "Sign out"
+   "signOut": "Sign out",
+   "subBlockTitle": "Cancel your subscription first",
+   "subBlockText": "You have a Premium subscription that renews automatically. Deleting your account does not cancel it — Google Play would keep charging you. Cancel the subscription in Google Play, then you can delete your account."
   }
  },
  "surahs": {
