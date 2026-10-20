@@ -1,0 +1,73 @@
+{
+ "v": 1,
+ "ui": {
+  "ru": {
+   "v": 1,
+   "sha": "f5d5ebbd349fc5ac2ade2c2d260bf7067c08fa11",
+   "bytes": 17114
+  },
+  "kk": {
+   "v": 1,
+   "sha": "783ed033132d88490fcdb7524798e8eb22278073",
+   "bytes": 16564
+  },
+  "en": {
+   "v": 1,
+   "sha": "bc15bc304c46cac03b52e172c8eab8ccf486547d",
+   "bytes": 12747
+  },
+  "ky": {
+   "v": 1,
+   "sha": "1a8ccedc6e3b130cf98b2db198ec8c5e1e3aa15f",
+   "bytes": 16962
+  },
+  "tr": {
+   "v": 1,
+   "sha": "9aaf7465536fe8bb8aa5219e39b89b4b6ddfd7db",
+   "bytes": 12338
+  },
+  "ar": {
+   "v": 1,
+   "sha": "e97e1c84c5d3aa5f6233ad9c95b465f6af469aaf",
+   "bytes": 15076
+  }
+ },
+ "words": {
+  "ru": {
+   "v": 1,
+   "sha": "2e113112e7938c6c08e6f4833b04fe357e847750",
+   "files": 114,
+   "bytes": 11209575
+  },
+  "en": {
+   "v": 1,
+   "sha": "590dbbe3673379d5066f57404933b0c40ae202cc",
+   "files": 114,
+   "bytes": 6648149
+  },
+  "tr": {
+   "v": 1,
+   "sha": "d9ac1051672a3597097629f9a8ca32a4986c11b4",
+   "files": 114,
+   "bytes": 6269465
+  },
+  "kk": {
+   "v": 1,
+   "sha": "87ea6de22da4fab3dc92be3e15517c8dae905f1d",
+   "files": 114,
+   "bytes": 10244543
+  },
+  "ky": {
+   "v": 1,
+   "sha": "df0f5c1b0a77c9265e32ecac122fe88f42a14711",
+   "files": 114,
+   "bytes": 10426363
+  },
+  "ar": {
+   "v": 1,
+   "sha": "8e0e06d0f6c2ff278274cd53c3267cdaadd55e4e",
+   "files": 114,
+   "bytes": 8352470
+  }
+ }
+}

@@ -1,0 +1,675 @@
+{
+ "v": 1,
+ "lang": "en",
+ "groups": {
+  "app": {
+   "subtitle": "114 · WORD BY WORD",
+   "search": "Search surah…",
+   "prev": "‹  Previous",
+   "next": "Next  ›",
+   "surah": "SURAH",
+   "meaning": "Meaning",
+   "ayahs": "Ayahs",
+   "ayah": "Ayah",
+   "settings": "Settings",
+   "display": "Display",
+   "showTranslation": "Show translation",
+   "showTranslit": "Show transcription",
+   "arFontSize": "Arabic font size",
+   "trFontSize": "Translation font size",
+   "translitSize": "Transcription size",
+   "sidebarColor": "Surah page color",
+   "parchment": "Parchment",
+   "white": "White",
+   "dark": "Dark",
+   "wordAlign": "Word alignment",
+   "center": "Center",
+   "rtlAlign": "Right to left",
+   "appLang": "App language",
+   "arFont": "Surah font",
+   "trFont": "Translation font",
+   "both": "Both",
+   "fullMeaning": "FULL MEANING",
+   "noTranslation": "Translation for this language will be added later.",
+   "done": "Done",
+   "notes": "Notes",
+   "noNotes": "No notes yet",
+   "offlineTitle": "Offline translations",
+   "offlineHint": "Word translations load from the internet. Download them to read offline.",
+   "offlineDownload": "Download",
+   "offlineReady": "Downloaded · available offline",
+   "offlineDelete": "Delete",
+   "offlineUpdate": "Update",
+   "offlineError": "Download failed. Check your internet connection.",
+   "langLoading": "Loading language…",
+   "wordsLoading": "Loading translation…",
+   "wordsOffline": "No internet: word translations unavailable. Download them in Settings.",
+   "ayahOne": "ayah",
+   "ayahFew": "ayahs",
+   "ayahMany": "ayahs",
+   "pluralRule": "en"
+  },
+  "place": {
+   "Мекканская": "Mecca",
+   "Мединская": "Medina"
+  },
+  "reader": {
+   "note": "Note",
+   "copy": "Copy",
+   "audio": "Audio",
+   "noteAdded": "Note added",
+   "noteRemoved": "Note removed",
+   "copied": "Ayah copied",
+   "audioSoon": "Playing audio",
+   "notReady": "This surah is being prepared",
+   "savedWords": "Saved words",
+   "ayahBg": "Verse background",
+   "bg_white": "White",
+   "bg_sepia": "Sepia",
+   "bg_grey": "Grey",
+   "bg_night": "Night",
+   "bg_black": "Black",
+   "allSurahs": "All surahs",
+   "bookmarks": "Bookmarks",
+   "wordSaved": "Word saved",
+   "saveWord": "Save word",
+   "empty": "Nothing here yet",
+   "theme": "Theme",
+   "light": "Light",
+   "darkMode": "Dark",
+   "auto": "Auto",
+   "close": "Close",
+   "bookmarkAdd": "Save",
+   "unsaveWord": "Undo",
+   "wordRemoved": "Word removed from saved",
+   "readMode": "Reading mode",
+   "whole": "Continuous",
+   "byPages": "By pages",
+   "quranFull": "Full Quran",
+   "translationMode": "Translation",
+   "mode": "Mode",
+   "pages": "Pages",
+   "font": "Font",
+   "reciter": "Reciter",
+   "bismillahTr": "In the name of Allah, the Most Gracious, the Most Merciful",
+   "all": "All",
+   "ready": "Ready",
+   "withNotes": "With notes",
+   "juz": "Juz",
+   "continue": "Continue reading",
+   "startReading": "Start reading",
+   "bookmarksLow": "Bookmarks",
+   "wordsInList": "Words",
+   "readOf": "Read",
+   "preparing": "In preparation",
+   "home": "Home",
+   "words": "Words",
+   "subtitle": "Word meanings of the Holy Quran",
+   "audioError": "Could not load audio"
+  },
+  "ai_chat": {
+   "left": "{n} questions left today",
+   "hint": "Ask",
+   "choose": "What should I explain in this ayah?",
+   "c_tafsir": "Tafsir",
+   "c_tajwid": "Tajweed",
+   "q_tajwid": "Analyse this ayah by tajweed rules: which rules occur, in which words, and how to read them correctly.",
+   "q_explain": "Explain the meaning of this ayah based on reliable tafsirs and name the sources you rely on.",
+   "c_explain": "Explain the ayah",
+   "c_words": "Word by word",
+   "c_context": "Context",
+   "c_surah": "About this surah",
+   "c_themes": "Main themes",
+   "needPremium": "The AI assistant is part of Premium",
+   "subscribe": "Subscribe",
+   "copy": "Copy",
+   "copied": "Copied",
+   "error": "Could not get an answer. Please try again.",
+   "leftShort": "Left: {n}",
+   "history": "History",
+   "backToChat": "Chat",
+   "newChat": "New chat",
+   "noChats": "No saved chats yet",
+   "expand": "Full screen",
+   "collapse": "Collapse",
+   "ayahWord": "ayah"
+  },
+  "ai_history": {
+   "history": "History",
+   "bills": "Receipts",
+   "deleteAll": "Delete all",
+   "deleteAllText": "Delete the whole request history? This cannot be undone.",
+   "emptyHistory": "No AI requests yet",
+   "emptyBills": "No payments yet",
+   "paid": "Paid",
+   "managePlay": "Manage in Google Play"
+  },
+  "mp3": {
+   "reciters": "Reciters",
+   "all": "All",
+   "listen": "Listen to surahs",
+   "nowPlaying": "Now playing",
+   "tapToListen": "Surah MP3",
+   "pickSurah": "Pick a surah below",
+   "notAvailable": "Not by this reciter",
+   "loading": "Loading reciters…",
+   "loadError": "Could not load reciters. Check your connection.",
+   "playError": "Could not play audio",
+   "retry": "Retry",
+   "searchReciter": "Search reciter",
+   "variants": "recitations",
+   "shuffle": "Shuffle",
+   "repeat": "Repeat surah",
+   "download": "Download",
+   "downloadError": "Could not download the surah",
+   "deleteDownload": "Remove the downloaded surah from this phone?",
+   "delete": "Remove",
+   "cancel": "Cancel",
+   "surahsShort": "surahs"
+  },
+  "premium": {
+   "title": "Premium with AI assistant",
+   "perDay": "Questions per day",
+   "period": "PERIOD",
+   "p_day": "Day",
+   "p_week": "Week",
+   "p_2weeks": "2 weeks",
+   "p_month": "Month",
+   "p_6months": "6 months",
+   "p_year": "Year",
+   "per_week": "per week",
+   "per_month": "per month",
+   "per_6months": "per 6 months",
+   "per_year": "per year",
+   "total": "{n} questions in total · {p} per 100 questions",
+   "buy": "Get it for {p}",
+   "renew": "Renews automatically. Cancel any time in Google Play.",
+   "pending": "Payment is processing. Premium will turn on automatically.",
+   "notDone": "Purchase not completed"
+  },
+  "profile": {
+   "signIn": "Sign in",
+   "profile": "Profile",
+   "guestTitle": "You are not signed in",
+   "guestText": "Sign in to keep bookmarks and words in the cloud and unlock Premium with AI",
+   "localOnly": "Everything is stored only on this phone for now",
+   "linked": "Google account connected",
+   "ofAyahs": "of {n} ayahs of the Quran",
+   "surahsDone": "Full surahs: {n}",
+   "ayahsRead": "ayahs read",
+   "premText": "Coming soon",
+   "aiTitle": "AI assistant",
+   "aiSub": "Explanations and answers about ayahs and words",
+   "aiSoon": "Available soon",
+   "cancelSub": "Cancel subscription",
+   "deleteProfile": "Delete profile",
+   "deleteQ": "Delete profile?",
+   "deleteText": "Your account and all its data — bookmarks, saved words, reading progress and AI history — will be deleted from the server and this phone. This cannot be undone.\n\nYour Google Play subscription is not cancelled by this.",
+   "cancelSubQ": "Cancel subscription?",
+   "cancelSubText": "Google Play will open, where you can cancel the subscription. Premium and the AI assistant will work until the end of the paid period.",
+   "keepSub": "Keep",
+   "toCancel": "Yes, cancel",
+   "cancel": "Cancel",
+   "delete": "Delete",
+   "signOut": "Sign out"
+  }
+ },
+ "surahs": {
+  "1": [
+   "Al-Fatihah",
+   "The Opening"
+  ],
+  "2": [
+   "Al-Baqarah",
+   "The Cow"
+  ],
+  "3": [
+   "Ali Imran",
+   "The Family of Imran"
+  ],
+  "4": [
+   "An-Nisa",
+   "The Women"
+  ],
+  "5": [
+   "Al-Maidah",
+   "The Table Spread"
+  ],
+  "6": [
+   "Al-Anam",
+   "The Cattle"
+  ],
+  "7": [
+   "Al-Araf",
+   "The Heights"
+  ],
+  "8": [
+   "Al-Anfal",
+   "Spoils of war"
+  ],
+  "9": [
+   "At-Tawbah",
+   "Repentance"
+  ],
+  "10": [
+   "Yunus",
+   "Yunus"
+  ],
+  "11": [
+   "Hud",
+   "Hud"
+  ],
+  "12": [
+   "Yusuf",
+   "Joseph"
+  ],
+  "13": [
+   "Ar-Rad",
+   "The Thunder"
+  ],
+  "14": [
+   "Ibrahim",
+   "Abraham"
+  ],
+  "15": [
+   "Al-Hijr",
+   "The Rocky Tract"
+  ],
+  "16": [
+   "An-Nahl",
+   "The Bees"
+  ],
+  "17": [
+   "Al-Isra",
+   "The Night Journey"
+  ],
+  "18": [
+   "Al-Kahf",
+   "The Cave"
+  ],
+  "19": [
+   "Maryam",
+   "Maryam"
+  ],
+  "20": [
+   "Ta Ha",
+   "Ta Ha"
+  ],
+  "21": [
+   "Al-Anbiya",
+   "The Prophets"
+  ],
+  "22": [
+   "Al-Hajj",
+   "The Pilgrimage"
+  ],
+  "23": [
+   "Al-Muminun",
+   "The Believers"
+  ],
+  "24": [
+   "An-Nur",
+   "The Light"
+  ],
+  "25": [
+   "Al-Furqan",
+   "The Criterion"
+  ],
+  "26": [
+   "Ash-Shu'ara",
+   "The Poets"
+  ],
+  "27": [
+   "An-Naml",
+   "The Ants"
+  ],
+  "28": [
+   "Al-Qasas",
+   "The Stories"
+  ],
+  "29": [
+   "Al-Ankabut",
+   "The Spider"
+  ],
+  "30": [
+   "Ar-Rum",
+   "The Romans"
+  ],
+  "31": [
+   "Luqman",
+   "Luqman"
+  ],
+  "32": [
+   "As-Sajdah",
+   "The Prostration"
+  ],
+  "33": [
+   "Al-Ahzab",
+   "The Confederates"
+  ],
+  "34": [
+   "Saba",
+   "Sheba"
+  ],
+  "35": [
+   "Fatir",
+   "The Originator"
+  ],
+  "36": [
+   "Ya-Sin",
+   "The Letters Ya and Sin"
+  ],
+  "37": [
+   "As-Saffat",
+   "Those Ranged in Rows"
+  ],
+  "38": [
+   "Sad",
+   "The Letter Sad"
+  ],
+  "39": [
+   "Az-Zumar",
+   "The Groups"
+  ],
+  "40": [
+   "Ghafir",
+   "The Forgiver"
+  ],
+  "41": [
+   "Fussilat",
+   "Explained in Detail"
+  ],
+  "42": [
+   "Ash-Shura",
+   "The Consultation"
+  ],
+  "43": [
+   "Az-Zukhruf",
+   "The Ornaments"
+  ],
+  "44": [
+   "Ad-Dukhan",
+   "The Smoke"
+  ],
+  "45": [
+   "Al-Jathiyah",
+   "The Kneeling"
+  ],
+  "46": [
+   "Al-Ahqaf",
+   "The Sand Dunes"
+  ],
+  "47": [
+   "Muhammad",
+   "Muhammad"
+  ],
+  "48": [
+   "Al-Fath",
+   "The Victory"
+  ],
+  "49": [
+   "Al-Hujurat",
+   "The Chambers"
+  ],
+  "50": [
+   "Qaf",
+   "The letter Qaf"
+  ],
+  "51": [
+   "Adh-Dhariyat",
+   "The Scatterers"
+  ],
+  "52": [
+   "At-Tur",
+   "The Mount"
+  ],
+  "53": [
+   "An-Najm",
+   "The Star"
+  ],
+  "54": [
+   "Al-Qamar",
+   "The Moon"
+  ],
+  "55": [
+   "Ar-Rahman",
+   "The Most Merciful"
+  ],
+  "56": [
+   "Al-Waqi‘ah",
+   "The Inevitable Event"
+  ],
+  "57": [
+   "Al-Hadid",
+   "The Iron"
+  ],
+  "58": [
+   "Al-Mujadila",
+   "The Pleading Woman"
+  ],
+  "59": [
+   "Al-Hashr",
+   "The Gathering"
+  ],
+  "60": [
+   "Al-Mumtahanah",
+   "The Woman to Be Examined"
+  ],
+  "61": [
+   "As-Saff",
+   "The Ranks"
+  ],
+  "62": [
+   "Al-Jumu‘ah",
+   "Friday"
+  ],
+  "63": [
+   "Al-Munafiqun",
+   "The Hypocrites"
+  ],
+  "64": [
+   "At-Taghabun",
+   "Mutual Loss and Gain"
+  ],
+  "65": [
+   "At-Talaq",
+   "The Divorce"
+  ],
+  "66": [
+   "At-Tahrim",
+   "The Prohibition"
+  ],
+  "67": [
+   "Al-Mulk",
+   "The Sovereignty"
+  ],
+  "68": [
+   "Al-Qalam",
+   "The Pen"
+  ],
+  "69": [
+   "Al-Haqqah",
+   "The Inevitable Reality"
+  ],
+  "70": [
+   "Al-Ma‘arij",
+   "The Ascending Stairways"
+  ],
+  "71": [
+   "Nuh",
+   "Noah"
+  ],
+  "72": [
+   "Al-Jinn",
+   "The Jinn"
+  ],
+  "73": [
+   "Al-Muzzammil",
+   "The Enwrapped One"
+  ],
+  "74": [
+   "Al-Muddaththir",
+   "The Cloaked One"
+  ],
+  "75": [
+   "Al-Qiyamah",
+   "The Resurrection"
+  ],
+  "76": [
+   "Al-Insan",
+   "Man"
+  ],
+  "77": [
+   "Al-Mursalat",
+   "Those Sent Forth"
+  ],
+  "78": [
+   "An-Naba’",
+   "The Great News"
+  ],
+  "79": [
+   "An-Nazi‘at",
+   "Those Who Extract"
+  ],
+  "80": [
+   "‘Abasa",
+   "He Frowned"
+  ],
+  "81": [
+   "At-Takwir",
+   "The Folding Up"
+  ],
+  "82": [
+   "Al-Infitar",
+   "The Cleaving"
+  ],
+  "83": [
+   "Al-Mutaffifin",
+   "The Defrauders"
+  ],
+  "84": [
+   "Al-Inshiqaq",
+   "The Splitting Open"
+  ],
+  "85": [
+   "Al-Buruj",
+   "The Constellations"
+  ],
+  "86": [
+   "At-Tariq",
+   "The Night-Comer"
+  ],
+  "87": [
+   "Al-A‘la",
+   "The Most High"
+  ],
+  "88": [
+   "Al-Ghashiyah",
+   "The Overwhelming"
+  ],
+  "89": [
+   "Al-Fajr",
+   "The Dawn"
+  ],
+  "90": [
+   "Al-Balad",
+   "The City"
+  ],
+  "91": [
+   "Ash-Shams",
+   "The Sun"
+  ],
+  "92": [
+   "Al-Layl",
+   "The Night"
+  ],
+  "93": [
+   "Ad-Duha",
+   "The Morning Brightness"
+  ],
+  "94": [
+   "Ash-Sharh",
+   "The Expansion"
+  ],
+  "95": [
+   "At-Tin",
+   "The Fig"
+  ],
+  "96": [
+   "Al-‘Alaq",
+   "The Clinging Clot"
+  ],
+  "97": [
+   "Al-Qadr",
+   "The Decree"
+  ],
+  "98": [
+   "Al-Bayyinah",
+   "The Clear Evidence"
+  ],
+  "99": [
+   "Az-Zalzalah",
+   "The Earthquake"
+  ],
+  "100": [
+   "Al-‘Adiyat",
+   "The Chargers"
+  ],
+  "101": [
+   "Al-Qari‘ah",
+   "The Striking Calamity"
+  ],
+  "102": [
+   "At-Takathur",
+   "The Rivalry in Increase"
+  ],
+  "103": [
+   "Al-‘Asr",
+   "The Time"
+  ],
+  "104": [
+   "Al-Humazah",
+   "The Slanderer"
+  ],
+  "105": [
+   "Al-Fil",
+   "The Elephant"
+  ],
+  "106": [
+   "Quraysh",
+   "Quraysh"
+  ],
+  "107": [
+   "Al-Ma‘un",
+   "Small Kindnesses"
+  ],
+  "108": [
+   "Al-Kawthar",
+   "The Abundance"
+  ],
+  "109": [
+   "Al-Kafirun",
+   "The Disbelievers"
+  ],
+  "110": [
+   "An-Nasr",
+   "The Help"
+  ],
+  "111": [
+   "Al-Masad",
+   "The Palm Fibre"
+  ],
+  "112": [
+   "Al-Ikhlas",
+   "The Sincerity"
+  ],
+  "113": [
+   "Al-Falaq",
+   "The Daybreak"
+  ],
+  "114": [
+   "An-Nas",
+   "Mankind"
+  ]
+ }
+}

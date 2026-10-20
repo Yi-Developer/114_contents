@@ -1,0 +1,675 @@
+{
+ "v": 1,
+ "lang": "tr",
+ "groups": {
+  "app": {
+   "subtitle": "114 · KELİME KELİME",
+   "search": "Sure ara…",
+   "prev": "‹  Önceki",
+   "next": "Sonraki  ›",
+   "surah": "SURE",
+   "meaning": "Anlamı",
+   "ayahs": "Ayet",
+   "ayah": "Ayet",
+   "settings": "Ayarlar",
+   "display": "Görünüm",
+   "showTranslation": "Çeviriyi göster",
+   "showTranslit": "Okunuşu göster",
+   "arFontSize": "Arapça yazı boyutu",
+   "trFontSize": "Çeviri yazı boyutu",
+   "translitSize": "Okunuş boyutu",
+   "sidebarColor": "Sure sayfası rengi",
+   "parchment": "Parşömen",
+   "white": "Beyaz",
+   "dark": "Koyu",
+   "wordAlign": "Kelime hizalama",
+   "center": "Ortala",
+   "rtlAlign": "Sağdan sola",
+   "appLang": "Uygulama dili",
+   "arFont": "Sure yazı tipi",
+   "trFont": "Çeviri yazı tipi",
+   "both": "İkisi",
+   "fullMeaning": "TAM ANLAMI",
+   "noTranslation": "Bu dile çeviri daha sonra eklenecek.",
+   "done": "Tamam",
+   "notes": "Notlar",
+   "noNotes": "Henüz not yok",
+   "offlineTitle": "Çevrimdışı çeviriler",
+   "offlineHint": "Kelime çevirileri internetten yüklenir. İnternetsiz okumak için indirin.",
+   "offlineDownload": "İndir",
+   "offlineReady": "İndirildi · çevrimdışı kullanılabilir",
+   "offlineDelete": "Sil",
+   "offlineUpdate": "Güncelle",
+   "offlineError": "İndirilemedi. İnternet bağlantınızı kontrol edin.",
+   "langLoading": "Dil yükleniyor…",
+   "wordsLoading": "Çeviri yükleniyor…",
+   "wordsOffline": "İnternet yok: kelime çevirileri kullanılamıyor. Ayarlardan indirin.",
+   "ayahOne": "ayet",
+   "ayahFew": "ayet",
+   "ayahMany": "ayet",
+   "pluralRule": "none"
+  },
+  "place": {
+   "Мекканская": "Mekke",
+   "Мединская": "Medine"
+  },
+  "reader": {
+   "note": "Not",
+   "copy": "Kopyala",
+   "audio": "Ses",
+   "noteAdded": "Not eklendi",
+   "noteRemoved": "Not silindi",
+   "copied": "Ayet kopyalandı",
+   "audioSoon": "Ses çalınıyor",
+   "notReady": "Bu sure hazırlanıyor",
+   "savedWords": "Kelime listesi",
+   "ayahBg": "Ayet arka planı",
+   "bg_white": "Beyaz",
+   "bg_sepia": "Sepya",
+   "bg_grey": "Gri",
+   "bg_night": "Gece",
+   "bg_black": "Siyah",
+   "allSurahs": "Tüm sureler",
+   "bookmarks": "Yer imleri",
+   "wordSaved": "Kelime kaydedildi",
+   "saveWord": "Kelimeyi kaydet",
+   "empty": "Henüz boş",
+   "theme": "Tema",
+   "light": "Açık",
+   "darkMode": "Koyu",
+   "auto": "Oto",
+   "close": "Kapat",
+   "bookmarkAdd": "Kaydet",
+   "unsaveWord": "Geri al",
+   "wordRemoved": "Kelime kaydedilenlerden kaldırıldı",
+   "readMode": "Okuma modu",
+   "whole": "Kesintisiz",
+   "byPages": "Sayfa sayfa",
+   "quranFull": "Tam Kur’an",
+   "translationMode": "Çeviri",
+   "mode": "Mod",
+   "pages": "Sayfalar",
+   "font": "Yazı tipi",
+   "reciter": "Kâri",
+   "bismillahTr": "Rahman ve Rahim olan Allah’ın adıyla",
+   "all": "Tümü",
+   "ready": "Hazır",
+   "withNotes": "Notlu",
+   "juz": "Cüz",
+   "continue": "Okumaya devam",
+   "startReading": "Okumaya başla",
+   "bookmarksLow": "Yer imleri",
+   "wordsInList": "Kelimeler",
+   "readOf": "Okundu",
+   "preparing": "Hazırlanıyor",
+   "home": "Ana sayfa",
+   "words": "Kelimeler",
+   "subtitle": "Kur’an kelimelerinin anlamları",
+   "audioError": "Ses yüklenemedi"
+  },
+  "ai_chat": {
+   "left": "Bugün {n} soru kaldı",
+   "hint": "Sor",
+   "choose": "Bu ayette neyi açıklayayım?",
+   "c_tafsir": "Tefsir",
+   "c_tajwid": "Tecvid",
+   "q_tajwid": "Bu ayeti tecvid kurallarına göre incele: hangi kurallar var, hangi kelimelerde ve nasıl doğru okunur.",
+   "q_explain": "Bu ayetin anlamını güvenilir tefsirlere dayanarak açıkla ve dayandığın kaynakları belirt.",
+   "c_explain": "Ayeti açıkla",
+   "c_words": "Kelime kelime",
+   "c_context": "Bağlam",
+   "c_surah": "Sure hakkında",
+   "c_themes": "Ana konular",
+   "needPremium": "Yapay zekâ asistanı Premium ile kullanılabilir",
+   "subscribe": "Abone ol",
+   "copy": "Kopyala",
+   "copied": "Kopyalandı",
+   "error": "Yanıt alınamadı. Tekrar deneyin.",
+   "leftShort": "Kalan: {n}",
+   "history": "Geçmiş",
+   "backToChat": "Sohbet",
+   "newChat": "Yeni sohbet",
+   "noChats": "Henüz kayıtlı sohbet yok",
+   "expand": "Tam ekran",
+   "collapse": "Küçült",
+   "ayahWord": "ayet"
+  },
+  "ai_history": {
+   "history": "Geçmiş",
+   "bills": "Faturalar",
+   "deleteAll": "Tümünü sil",
+   "deleteAllText": "Tüm istek geçmişi silinsin mi? Bu işlem geri alınamaz.",
+   "emptyHistory": "Henüz yapay zekâ isteği yok",
+   "emptyBills": "Henüz ödeme yok",
+   "paid": "Ödendi",
+   "managePlay": "Google Play'de yönet"
+  },
+  "mp3": {
+   "reciters": "Kurralar",
+   "all": "Tümü",
+   "listen": "Sureleri dinle",
+   "nowPlaying": "Şimdi çalıyor",
+   "tapToListen": "Sure MP3",
+   "pickSurah": "Aşağıdan bir sure seçin",
+   "notAvailable": "Bu kârîde yok",
+   "loading": "Kurralar yükleniyor…",
+   "loadError": "Kurralar yüklenemedi. İnternetinizi kontrol edin.",
+   "playError": "Ses çalınamadı",
+   "retry": "Tekrar dene",
+   "searchReciter": "Kurra ara",
+   "variants": "kıraat",
+   "shuffle": "Karışık çal",
+   "repeat": "Sureyi tekrarla",
+   "download": "İndir",
+   "downloadError": "Sure indirilemedi",
+   "deleteDownload": "İndirilen sure telefondan silinsin mi?",
+   "delete": "Sil",
+   "cancel": "İptal",
+   "surahsShort": "sure"
+  },
+  "premium": {
+   "title": "Yapay zekâ asistanlı Premium",
+   "perDay": "Günlük soru",
+   "period": "SÜRE",
+   "p_day": "Gün",
+   "p_week": "Hafta",
+   "p_2weeks": "2 hafta",
+   "p_month": "Ay",
+   "p_6months": "6 ay",
+   "p_year": "Yıl",
+   "per_week": "haftalık",
+   "per_month": "aylık",
+   "per_6months": "6 aylık",
+   "per_year": "yıllık",
+   "total": "Toplam {n} soru · 100 soru {p}",
+   "buy": "{p} karşılığında al",
+   "renew": "Otomatik yenilenir. Google Play üzerinden istediğiniz zaman iptal edin.",
+   "pending": "Ödeme işleniyor. Premium otomatik olarak açılacak.",
+   "notDone": "Satın alma tamamlanmadı"
+  },
+  "profile": {
+   "signIn": "Giriş",
+   "profile": "Profil",
+   "guestTitle": "Giriş yapmadınız",
+   "guestText": "Yer imleri ve kelimeler bulutta saklansın, yapay zekâlı Premium açılsın diye giriş yapın",
+   "localOnly": "Şu an her şey yalnızca bu telefonda saklanıyor",
+   "linked": "Google hesabı bağlı",
+   "ofAyahs": "Kur’an’ın {n} ayetinden",
+   "surahsDone": "Tam sure: {n}",
+   "ayahsRead": "ayet okundu",
+   "premText": "Yakında",
+   "aiTitle": "Yapay zekâ asistanı",
+   "aiSub": "Ayetler ve kelimeler hakkında açıklamalar",
+   "aiSoon": "Yakında kullanılabilir",
+   "cancelSub": "Aboneliği iptal et",
+   "deleteProfile": "Profili sil",
+   "deleteQ": "Profil silinsin mi?",
+   "deleteText": "Hesabınız ve tüm verileri — yer imleri, kaydedilen kelimeler, okuma ilerlemesi ve yapay zekâ geçmişi — sunucudan ve bu telefondan silinecek. Bu işlem geri alınamaz.\n\nGoogle Play aboneliğiniz bununla iptal edilmez.",
+   "cancelSubQ": "Abonelik iptal edilsin mi?",
+   "cancelSubText": "Aboneliği iptal edebileceğiniz Google Play açılacak. Premium ve yapay zekâ asistanı ödenen dönemin sonuna kadar çalışır.",
+   "keepSub": "Devam et",
+   "toCancel": "Evet, iptal et",
+   "cancel": "Vazgeç",
+   "delete": "Sil",
+   "signOut": "Çıkış yap"
+  }
+ },
+ "surahs": {
+  "1": [
+   "Fâtiha",
+   "Açılış"
+  ],
+  "2": [
+   "Bakara",
+   "İnek"
+  ],
+  "3": [
+   "Ali Imran",
+   "İmran Ailesi"
+  ],
+  "4": [
+   "An-Nisa",
+   "Kadınlar"
+  ],
+  "5": [
+   "Mâide",
+   "Sofra"
+  ],
+  "6": [
+   "En‘âm",
+   "Hayvanlar"
+  ],
+  "7": [
+   "A‘râf",
+   "Yüksek Yerler"
+  ],
+  "8": [
+   "Enfâl",
+   "Ganimetler"
+  ],
+  "9": [
+   "Tevbe",
+   "Tövbe"
+  ],
+  "10": [
+   "Yûnus",
+   "Yûnus"
+  ],
+  "11": [
+   "Hûd",
+   "Hûd"
+  ],
+  "12": [
+   "Yûsuf",
+   "Yûsuf"
+  ],
+  "13": [
+   "Ra‘d",
+   "Gök Gürültüsü"
+  ],
+  "14": [
+   "İbrahim",
+   "İbrahim"
+  ],
+  "15": [
+   "Hicr",
+   "Taşlık Vadi"
+  ],
+  "16": [
+   "Nahl",
+   "Arılar"
+  ],
+  "17": [
+   "İsrâ",
+   "Gece Yolculuğu"
+  ],
+  "18": [
+   "Kehf",
+   "Mağara"
+  ],
+  "19": [
+   "Meryem",
+   "Meryem"
+  ],
+  "20": [
+   "Tâ Hâ",
+   "Tâ Hâ"
+  ],
+  "21": [
+   "Enbiyâ",
+   "Peygamberler"
+  ],
+  "22": [
+   "Hac",
+   "Hac"
+  ],
+  "23": [
+   "Müminûn",
+   "Müminler"
+  ],
+  "24": [
+   "Nûr",
+   "Işık"
+  ],
+  "25": [
+   "Furkân",
+   "Ayırt Etme"
+  ],
+  "26": [
+   "Şuarâ",
+   "Şairler"
+  ],
+  "27": [
+   "Neml",
+   "Karıncalar"
+  ],
+  "28": [
+   "Kasas",
+   "Kıssalar"
+  ],
+  "29": [
+   "Ankebût",
+   "Örümcek"
+  ],
+  "30": [
+   "Rûm",
+   "Romalılar"
+  ],
+  "31": [
+   "Lokman",
+   "Lokman"
+  ],
+  "32": [
+   "Secde",
+   "Secde"
+  ],
+  "33": [
+   "Ahzâb",
+   "Birleşik topluluklar"
+  ],
+  "34": [
+   "Sebe",
+   "Sebe"
+  ],
+  "35": [
+   "Fâtır",
+   "Yaratan"
+  ],
+  "36": [
+   "Yâsîn",
+   "Yâ ve Sîn harfleri"
+  ],
+  "37": [
+   "Sâffât",
+   "Saf Tutanlar"
+  ],
+  "38": [
+   "Sâd",
+   "Sâd harfi"
+  ],
+  "39": [
+   "Zümer",
+   "Gruplar"
+  ],
+  "40": [
+   "Gâfir",
+   "Bağışlayan"
+  ],
+  "41": [
+   "Fussilet",
+   "Ayrıntılı Açıklanan"
+  ],
+  "42": [
+   "Şûrâ",
+   "Danışma"
+  ],
+  "43": [
+   "Zuhruf",
+   "Süsler"
+  ],
+  "44": [
+   "Duhân",
+   "Duman"
+  ],
+  "45": [
+   "Câsiye",
+   "Diz çöken"
+  ],
+  "46": [
+   "Ahkâf",
+   "Kum tepeleri"
+  ],
+  "47": [
+   "Muhammed",
+   "Muhammed"
+  ],
+  "48": [
+   "Fetih",
+   "Fetih"
+  ],
+  "49": [
+   "Hucurât",
+   "Odalar"
+  ],
+  "50": [
+   "Kâf",
+   "Kâf harfi"
+  ],
+  "51": [
+   "Zâriyât",
+   "Savuranlar"
+  ],
+  "52": [
+   "Tûr",
+   "Dağ"
+  ],
+  "53": [
+   "Necm",
+   "Yıldız"
+  ],
+  "54": [
+   "Kamer",
+   "Ay"
+  ],
+  "55": [
+   "Rahmân",
+   "Rahmân"
+  ],
+  "56": [
+   "Vâkıa",
+   "Kıyamet"
+  ],
+  "57": [
+   "Hadîd",
+   "Demir"
+  ],
+  "58": [
+   "Mücâdele",
+   "Mücadele Eden Kadın"
+  ],
+  "59": [
+   "Haşr",
+   "Sürgün"
+  ],
+  "60": [
+   "Mümtehine",
+   "İmtihan Edilen Kadın"
+  ],
+  "61": [
+   "Saf",
+   "Saf"
+  ],
+  "62": [
+   "Cuma",
+   "Cuma"
+  ],
+  "63": [
+   "Münâfikûn",
+   "Münafıklar"
+  ],
+  "64": [
+   "Teğâbün",
+   "Aldanış"
+  ],
+  "65": [
+   "Talâk",
+   "Boşanma"
+  ],
+  "66": [
+   "Tahrîm",
+   "Yasaklama"
+  ],
+  "67": [
+   "Mülk",
+   "Hükümranlık"
+  ],
+  "68": [
+   "Kalem",
+   "Kalem"
+  ],
+  "69": [
+   "Hâkka",
+   "Gerçekleşen"
+  ],
+  "70": [
+   "Meâric",
+   "Yükselme Yolları"
+  ],
+  "71": [
+   "Nûh",
+   "Nûh"
+  ],
+  "72": [
+   "Cin",
+   "Cinler"
+  ],
+  "73": [
+   "Müzzemmil",
+   "Örtünen"
+  ],
+  "74": [
+   "Müddessir",
+   "Bürünen"
+  ],
+  "75": [
+   "Kıyâme",
+   "Kıyamet"
+  ],
+  "76": [
+   "İnsân",
+   "İnsan"
+  ],
+  "77": [
+   "Mürselât",
+   "Gönderilenler"
+  ],
+  "78": [
+   "Nebe’",
+   "Büyük Haber"
+  ],
+  "79": [
+   "Nâziât",
+   "Söküp Çıkaranlar"
+  ],
+  "80": [
+   "Abese",
+   "Yüzünü Ekşitti"
+  ],
+  "81": [
+   "Tekvîr",
+   "Dürülme"
+  ],
+  "82": [
+   "İnfitâr",
+   "Yarılma"
+  ],
+  "83": [
+   "Mutaffifîn",
+   "Eksik Ölçenler"
+  ],
+  "84": [
+   "İnşikâk",
+   "Yarılma"
+  ],
+  "85": [
+   "Burûc",
+   "Burçlar"
+  ],
+  "86": [
+   "Târık",
+   "Gece Gelen"
+  ],
+  "87": [
+   "A‘lâ",
+   "En Yüce"
+  ],
+  "88": [
+   "Gâşiye",
+   "Kuşatan"
+  ],
+  "89": [
+   "Fecr",
+   "Tan Yeri"
+  ],
+  "90": [
+   "Beled",
+   "Şehir"
+  ],
+  "91": [
+   "Şems",
+   "Güneş"
+  ],
+  "92": [
+   "Leyl",
+   "Gece"
+  ],
+  "93": [
+   "Duhâ",
+   "Kuşluk Vakti"
+  ],
+  "94": [
+   "İnşirâh",
+   "Açılma"
+  ],
+  "95": [
+   "Tîn",
+   "İncir"
+  ],
+  "96": [
+   "Alak",
+   "Alak (Kan pıhtısı)"
+  ],
+  "97": [
+   "Kadir",
+   "Kadir"
+  ],
+  "98": [
+   "Beyyine",
+   "Apaçık Delil"
+  ],
+  "99": [
+   "Zilzâl",
+   "Deprem"
+  ],
+  "100": [
+   "Âdiyât",
+   "Koşanlar"
+  ],
+  "101": [
+   "Kâria",
+   "Kapıyı Çalan"
+  ],
+  "102": [
+   "Tekâsür",
+   "Çoğaltma Yarışı"
+  ],
+  "103": [
+   "Asr",
+   "Zaman"
+  ],
+  "104": [
+   "Hümeze",
+   "Çekiştiren"
+  ],
+  "105": [
+   "Fîl",
+   "Fil"
+  ],
+  "106": [
+   "Kureyş",
+   "Kureyş"
+  ],
+  "107": [
+   "Mâûn",
+   "Yardımlaşma"
+  ],
+  "108": [
+   "Kevser",
+   "Bolluk"
+  ],
+  "109": [
+   "Kâfirûn",
+   "Kâfirler"
+  ],
+  "110": [
+   "Nasr",
+   "Yardım"
+  ],
+  "111": [
+   "Tebbet",
+   "Hurma lifi"
+  ],
+  "112": [
+   "İhlâs",
+   "Samimiyet"
+  ],
+  "113": [
+   "Felak",
+   "Şafak"
+  ],
+  "114": [
+   "Nâs",
+   "İnsanlar"
+  ]
+ }
+}
