@@ -7,7 +7,8 @@
 Что делает:
   • words/<язык>/NNN.json  — краткий и подробный перевод слов (ru, en, tr, kk, ky);
   • words/ar/NNN.json      — арабское толкование автора (fullAr);
-  • manifest.json          — у изменившихся пакетов повышает версию "v",
+  • manifest.json          — у изменившихся пакетов (words, ui, privacy, terms)
+                             повышает версию "v",
                              чтобы приложения скачали обновление;
   • --app: заодно обновляет assets/quran/quran.json (арабский Коран в приложении).
 Названия сур для языков интерфейса берутся из nameLoc/meaningLoc и
@@ -100,6 +101,18 @@ def main():
             print(f'ui/{l}: новая версия {cur["v"]}')
         cur['bytes'] = os.path.getsize(f)
         man['ui'][l] = cur
+    # конфиденциальность и условия: privacy/<язык>.md, terms/<язык>.md
+    for kind in ('privacy', 'terms'):
+        man.setdefault(kind, {})
+        for f in glob.glob(f'{REPO}/{kind}/*.md'):
+            l = os.path.basename(f)[:-3]
+            dig = hashlib.sha1(open(f, 'rb').read()).hexdigest()
+            cur = man[kind].get(l, {})
+            if cur.get('sha') != dig:
+                cur = {'v': cur.get('v', 0) + 1, 'sha': dig}
+                print(f'{kind}/{l}: новая версия {cur["v"]}')
+            cur['bytes'] = os.path.getsize(f)
+            man[kind][l] = cur
     json.dump(man, open(mp, 'w'), indent=1)
     if app:
         dump(f'{app}/assets/quran/quran.json', {'v': 1, 's': core})
