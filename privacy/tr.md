@@ -10,11 +10,11 @@ Uygulama giriş yapmadan çalışır. Yer imleri, kaydedilen kelimeler, okuma ye
 
 ## Google ile giriş
 
-Google ile giriş yaparsanız, Firebase Authentication (Google) aracılığıyla adınızı, e-posta adresinizi, profil fotoğrafınızı ve hesap kimliğinizi alırız. Bunlar profilinizi göstermek ve verilerinizi cihazlar arasında eşitlemek için kullanılır.
+Google ile giriş yaparsanız, [Firebase Authentication](https://firebase.google.com/support/privacy) (Google) aracılığıyla adınızı, e-posta adresinizi, profil fotoğrafınızı ve hesap kimliğinizi alırız. Bunlar profilinizi göstermek ve verilerinizi cihazlar arasında eşitlemek için kullanılır.
 
 ## Eşitleme
 
-Giriş yaptıktan sonra şu veriler sunucumuza (Cloudflare) gönderilir ve orada saklanır: yer imleri, kaydedilen kelimeler, okuma yeri ve ilerleme, yapay zekâ asistanı sohbetleri ve soru geçmişi. Böylece verileriniz kaybolmaz ve tüm cihazlarınızda kullanılabilir. Çıkış yaptığınızda veriler önce sunucuya kaydedilir, ardından telefondan silinir.
+Giriş yaptıktan sonra şu veriler sunucumuza ([Cloudflare](https://www.cloudflare.com/privacypolicy/)) gönderilir ve orada saklanır: yer imleri, kaydedilen kelimeler, okuma yeri ve ilerleme, yapay zekâ asistanı sohbetleri ve soru geçmişi. Böylece verileriniz kaybolmaz ve tüm cihazlarınızda kullanılabilir. Çıkış yaptığınızda veriler önce sunucuya kaydedilir, ardından telefondan silinir.
 
 ## Yapay zekâ asistanı (Premium)
 
@@ -22,12 +22,12 @@ Sorunuz, o sohbetteki önceki mesajlar, sorduğunuz ayetin veya kelimenin metni 
 
 ## Satın almalar
 
-Abonelik Google Play üzerinden yapılır. Ödeme bilgilerinizi Google işler, biz göremeyiz. Sunucumuz, aboneliği Google ile doğrulamak ve Premium’u açmak için uygulamadan satın alma bilgilerini (ürün kimliği ve satın alma jetonu) alır.
+Abonelik [Google Play](https://play.google.com/about/play-terms/) üzerinden yapılır. Ödeme bilgilerinizi [Google](https://policies.google.com/privacy) işler, biz göremeyiz. Sunucumuz, aboneliği Google ile doğrulamak ve Premium’u açmak için uygulamadan satın alma bilgilerini (ürün kimliği ve satın alma jetonu) alır.
 
 ## İndirilen metinler ve ses
 
-- Arayüz metinleri, kelime çevirileri ve bu belge GitHub’dan (raw.githubusercontent.com) indirilir.
-- Ayet sesleri everyayah.com’dan, sure sesleri ve okuyucu listesi mp3quran.net’ten yüklenir.
+- Arayüz metinleri, kelime çevirileri ve bu belge [GitHub’dan](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) (raw.githubusercontent.com) indirilir.
+- Ayet sesleri [everyayah.com](https://everyayah.com)’dan, sure sesleri ve okuyucu listesi [mp3quran.net](https://mp3quran.net)’ten yüklenir.
 
 Bu hizmetler, herhangi bir siteyi açtığınızda olduğu gibi IP adresinizi görür. Onlarla sizinle ilgili başka bilgi paylaşmayız.
 
@@ -47,4 +47,6 @@ Bu politika değişirse yeni sürüm uygulamada görünür ve üstteki tarih gü
 
 ## İletişim
 
-Verilerinizle ilgili sorular: [EMAIL]
+Verilerinizle ilgili sorular: [yi.mutawir@gmail.com](mailto:yi.mutawir@gmail.com)
+
+Ayrıca bkz. [Kullanım Koşulları](terms).

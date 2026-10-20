@@ -11,8 +11,8 @@ These terms apply when you use the “114” app (the Quran with word-by-word an
 ## Content
 
 - The Arabic text of the Quran is built into the app.
-- Word translations and explanations were prepared for the app and are downloaded from our GitHub repository. We try to keep them accurate, but a translation conveys the meaning only approximately.
-- Audio belongs to its owners and is loaded from everyayah.com and mp3quran.net.
+- Word translations and explanations were prepared for the app and are downloaded from [our GitHub repository](https://github.com/Yi-Developer/114_contents). We try to keep them accurate, but a translation conveys the meaning only approximately.
+- Audio belongs to its owners and is loaded from [everyayah.com](https://everyayah.com) and [mp3quran.net](https://mp3quran.net).
 
 ## AI assistant
 
@@ -24,9 +24,9 @@ Signing in with Google is needed for sync and Premium. You are responsible for a
 
 ## Premium subscription
 
-- The subscription is purchased and billed through Google Play. The price and period are shown before you buy.
-- It renews automatically until you cancel. You can cancel at any time in Google Play; access remains until the end of the paid period.
-- Refunds follow Google Play’s policies.
+- The subscription is purchased and billed through [Google Play](https://play.google.com/about/play-terms/). The price and period are shown before you buy.
+- It renews automatically until you cancel. You can cancel at any time [in Google Play](https://play.google.com/store/account/subscriptions); access remains until the end of the paid period.
+- Refunds follow [Google Play’s policies](https://support.google.com/googleplay/answer/2479637).
 - The number of AI questions per day is limited by the plan you choose.
 
 ## Acceptable use
@@ -44,8 +44,8 @@ We may change the app and these terms. The new version will appear in the app an
 
 ## Privacy
 
-How we process data is described in the Privacy Policy.
+How we process data is described in the [Privacy Policy](privacy).
 
 ## Contact
 
-Questions: [EMAIL]
+Questions: [yi.mutawir@gmail.com](mailto:yi.mutawir@gmail.com)

@@ -10,11 +10,11 @@ The app works without signing in. Bookmarks, saved words, your reading position 
 
 ## Sign-in with Google
 
-If you sign in with Google, we receive your name, email address, profile photo and account ID through Firebase Authentication (Google). We use them to show your profile and to sync your data between devices.
+If you sign in with Google, we receive your name, email address, profile photo and account ID through [Firebase Authentication](https://firebase.google.com/support/privacy) (Google). We use them to show your profile and to sync your data between devices.
 
 ## Sync
 
-After you sign in, the following is sent to and stored on our server (Cloudflare): bookmarks, saved words, reading position and progress, and your AI assistant chats and question history. This keeps your data safe and available on all your devices. When you sign out, your data is first saved to the server and then removed from the phone.
+After you sign in, the following is sent to and stored on our server ([Cloudflare](https://www.cloudflare.com/privacypolicy/)): bookmarks, saved words, reading position and progress, and your AI assistant chats and question history. This keeps your data safe and available on all your devices. When you sign out, your data is first saved to the server and then removed from the phone.
 
 ## AI assistant (Premium)
 
@@ -22,12 +22,12 @@ Your question, the earlier messages of that chat, the text of the verse or word 
 
 ## Purchases
 
-Subscriptions are handled by Google Play. Google processes your payment details; we never see them. Our server receives purchase details from the app (the product ID and purchase token) to verify the subscription with Google and turn on Premium.
+Subscriptions are handled by [Google Play](https://play.google.com/about/play-terms/). [Google](https://policies.google.com/privacy) processes your payment details; we never see them. Our server receives purchase details from the app (the product ID and purchase token) to verify the subscription with Google and turn on Premium.
 
 ## Downloaded texts and audio
 
-- Interface texts, word translations and this document are downloaded from GitHub (raw.githubusercontent.com).
-- Verse audio is loaded from everyayah.com; surah audio and the list of reciters come from mp3quran.net.
+- Interface texts, word translations and this document are downloaded from [GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) (raw.githubusercontent.com).
+- Verse audio is loaded from [everyayah.com](https://everyayah.com); surah audio and the list of reciters come from [mp3quran.net](https://mp3quran.net).
 
 These services see your IP address, as with any website you open. We do not share any other information about you with them.
 
@@ -47,4 +47,6 @@ If this policy changes, the new version will appear in the app and the date at t
 
 ## Contact
 
-Questions about your data: [EMAIL]
+Questions about your data: [yi.mutawir@gmail.com](mailto:yi.mutawir@gmail.com)
+
+See also the [Terms of Use](terms).
