@@ -1,8 +1,8 @@
 # Kullanım Koşulları
 
-Son güncelleme: 20 Ekim 2026
+Son güncelleme: 21 Ekim 2026
 
-Bu koşullar “114” uygulamasını (kelime kelime açıklamalı Kur’an) kullandığınızda geçerlidir. Uygulamayı kullanarak bu koşulları kabul etmiş olursunuz.
+Bu koşullar “114” uygulamasını (kelime kelime açıklamalı Kur’an) kullandığınızda geçerlidir. Uygulamayı kullanarak bu koşulları kabul etmiş olursunuz. Uygulamayı tek başıma geliştiriyor ve sürdürüyorum; bu metinde “ben” geliştiriciyi ifade eder.
 
 ## Uygulama hakkında
 
@@ -11,7 +11,7 @@ Bu koşullar “114” uygulamasını (kelime kelime açıklamalı Kur’an) kul
 ## İçerik
 
 - Kur’an’ın Arapça metni uygulamanın içindedir.
-- Kelime çevirileri ve açıklamaları uygulama için hazırlanmıştır ve [GitHub depomuzdan](https://github.com/Yi-Developer/114_contents) indirilir. Doğru olmaları için çalışıyoruz, ancak çeviri anlamı yalnızca yaklaşık olarak aktarır.
+- Kelime çevirileri ve açıklamaları uygulama için hazırlanmıştır ve [GitHub depomdan](https://github.com/Yi-Developer/114_contents) indirilir. Doğru olmaları için çalışıyorum, ancak çeviri anlamı yalnızca yaklaşık olarak aktarır.
 - Ses kayıtları sahiplerine aittir ve [everyayah.com](https://everyayah.com) ile [mp3quran.net](https://mp3quran.net)’ten yüklenir.
 
 ## Yapay zekâ asistanı
@@ -32,15 +32,15 @@ Eşitleme ve Premium için Google ile giriş gerekir. Google hesabınıza erişi
 ## Kullanım kuralları
 
 - Uygulamayı ve yapay zekâ asistanını yasa dışı amaçlarla kullanmayın, sınırları aşmaya veya hizmeti bozmaya çalışmayın.
-- Uygulamanın çevirilerini ve açıklamalarını iznimiz olmadan bütün hâlinde kopyalamayın ve dağıtmayın.
+- Uygulamadaki çevirileri ve açıklamaları serbestçe kopyalayabilir, arkadaşlarınıza gönderebilir, paylaşabilir ve ekran görüntüsü alabilirsiniz.
 
 ## Sorumluluk
 
-Uygulama “olduğu gibi” sunulur. Yasaların izin verdiği ölçüde, kesintisiz ve hatasız çalışacağını garanti etmeyiz ve çevirilere veya yapay zekâ yanıtlarına dayanarak verilen kararlardan sorumlu değiliz.
+Uygulama “olduğu gibi” sunulur. Yasaların izin verdiği ölçüde, kesintisiz ve hatasız çalışacağını garanti etmem ve çevirilere veya yapay zekâ yanıtlarına dayanarak verilen kararlardan sorumlu değilim.
 
 ## Değişiklikler
 
-Uygulamayı ve bu koşulları değiştirebiliriz. Yeni sürüm uygulamada görünür ve üstteki tarih güncellenir. Uygulamayı kullanmaya devam ederek yeni sürümü kabul etmiş olursunuz.
+Uygulamayı ve bu koşulları değiştirebilirim. Yeni sürüm uygulamada görünür ve üstteki tarih güncellenir. Uygulamayı kullanmaya devam ederek yeni sürümü kabul etmiş olursunuz.
 
 ## Gizlilik
 

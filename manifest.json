@@ -72,66 +72,66 @@
  },
  "privacy": {
   "ar": {
-   "v": 3,
-   "sha": "b0de7d7234c66ccefd7cdd2aeadce412dbd63433",
-   "bytes": 4187
+   "v": 4,
+   "sha": "42df2ed348944d11ec32e583b16d010e2466f173",
+   "bytes": 4328
   },
   "en": {
-   "v": 3,
-   "sha": "d41463f68914e46361576295a709c132993d3b78",
-   "bytes": 3038
+   "v": 4,
+   "sha": "814011100a4e005b06ed7fbda941902e58eb3803",
+   "bytes": 3112
   },
   "kk": {
-   "v": 3,
-   "sha": "7d71bf09e7d8cb6985c3d09ebc966bdf448e5c1c",
-   "bytes": 5133
+   "v": 4,
+   "sha": "1ee6a1c8cebc0ceec0643b497758a5ae8e1762ec",
+   "bytes": 5287
   },
   "ky": {
-   "v": 3,
-   "sha": "335e94a9038216c950de915b83993d40eb9c5cb3",
-   "bytes": 5339
+   "v": 4,
+   "sha": "8bd5766575045456c380f837c3c6ef5a7f1e1225",
+   "bytes": 5472
   },
   "ru": {
-   "v": 3,
-   "sha": "518e1873595d9493b90347d48e6ca30b79767c52",
-   "bytes": 4875
+   "v": 4,
+   "sha": "bc0730e0fe4eb0e157272e857a46b59f2ab68f84",
+   "bytes": 5000
   },
   "tr": {
-   "v": 3,
-   "sha": "783d6840d71bd69ab5801052f7353a39d227b4a8",
-   "bytes": 3169
+   "v": 4,
+   "sha": "be417f5396bc64fa7105c5fe3036656c82b39422",
+   "bytes": 3246
   }
  },
  "terms": {
   "ar": {
-   "v": 3,
-   "sha": "49f757e74c754211b835443b8322a11f45ccb681",
-   "bytes": 3563
+   "v": 4,
+   "sha": "21c3754016969f5966ba77af8a2e325aa19e629b",
+   "bytes": 3770
   },
   "en": {
-   "v": 3,
-   "sha": "5e021be02334fcf297b7a5cd23e0e9bb049fb96b",
-   "bytes": 2635
+   "v": 4,
+   "sha": "633cdf7b9751ef97cceecf99ad841c276ce21b4f",
+   "bytes": 2731
   },
   "kk": {
-   "v": 3,
-   "sha": "eeecb382595c0affefb017005cd641b918e63f96",
-   "bytes": 4604
+   "v": 4,
+   "sha": "2cffd1cbfa73dae0632c3802cf1a948660633482",
+   "bytes": 4777
   },
   "ky": {
-   "v": 3,
-   "sha": "cc667ed35072ce0f196360919cf560e5257b9400",
-   "bytes": 4662
+   "v": 4,
+   "sha": "f14cb43f61893c1d11b4a11d89eb481ab33bfd6c",
+   "bytes": 4831
   },
   "ru": {
-   "v": 3,
-   "sha": "08f289a75a6b57dd8fdf65f9e5dbd2b92eb616e7",
-   "bytes": 4388
+   "v": 4,
+   "sha": "b6740d45c349bf9c9a1715ec2bebfb10ece0f884",
+   "bytes": 4571
   },
   "tr": {
-   "v": 3,
-   "sha": "5650c549dd244046c2e0e6cc016fc35cfd4627ee",
-   "bytes": 2886
+   "v": 4,
+   "sha": "4fa7c230ce59cfdbb632dc4c894951112b70cce4",
+   "bytes": 3032
   }
  }
 }

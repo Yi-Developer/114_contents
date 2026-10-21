@@ -1,8 +1,8 @@
 # Terms of Use
 
-Last updated: October 20, 2026
+Last updated: October 21, 2026
 
-These terms apply when you use the “114” app (the Quran with word-by-word analysis). By using the app, you accept them.
+These terms apply when you use the “114” app (the Quran with word-by-word analysis). By using the app, you accept them. I develop and maintain the app on my own, so “I” in this text means the developer.
 
 ## About the app
 
@@ -11,7 +11,7 @@ These terms apply when you use the “114” app (the Quran with word-by-word an
 ## Content
 
 - The Arabic text of the Quran is built into the app.
-- Word translations and explanations were prepared for the app and are downloaded from [our GitHub repository](https://github.com/Yi-Developer/114_contents). We try to keep them accurate, but a translation conveys the meaning only approximately.
+- Word translations and explanations were prepared for the app and are downloaded from [my GitHub repository](https://github.com/Yi-Developer/114_contents). I try to keep them accurate, but a translation conveys the meaning only approximately.
 - Audio belongs to its owners and is loaded from [everyayah.com](https://everyayah.com) and [mp3quran.net](https://mp3quran.net).
 
 ## AI assistant
@@ -32,19 +32,19 @@ Signing in with Google is needed for sync and Premium. You are responsible for a
 ## Acceptable use
 
 - Do not use the app or the AI assistant for unlawful purposes, and do not try to bypass limits or disrupt the service.
-- Do not copy or distribute the app’s translations and explanations as a whole without our permission.
+- You are free to copy the app’s translations and explanations, send them to friends, share them and take screenshots.
 
 ## Liability
 
-The app is provided “as is”. To the extent permitted by law, we do not guarantee that it will work without interruptions or errors, and we are not responsible for decisions made on the basis of translations or AI answers.
+The app is provided “as is”. To the extent permitted by law, I do not guarantee that it will work without interruptions or errors, and I am not responsible for decisions made on the basis of translations or AI answers.
 
 ## Changes
 
-We may change the app and these terms. The new version will appear in the app and the date at the top will be updated. By continuing to use the app, you accept the new version.
+I may change the app and these terms. The new version will appear in the app and the date at the top will be updated. By continuing to use the app, you accept the new version.
 
 ## Privacy
 
-How we process data is described in the [Privacy Policy](privacy).
+How I process data is described in the [Privacy Policy](privacy).
 
 ## Contact
 
