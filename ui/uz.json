@@ -1,0 +1,727 @@
+{
+ "v": 1,
+ "lang": "uz",
+ "groups": {
+  "app": {
+   "subtitle": "114 · SOʻZMA-SOʻZ",
+   "search": "Surani qidirish…",
+   "prev": "‹  Oldingi",
+   "next": "Keyingi  ›",
+   "surah": "SURA",
+   "meaning": "Maʼnosi",
+   "ayahs": "Oyatlar",
+   "ayah": "Oyat",
+   "settings": "Sozlamalar",
+   "display": "Koʻrinish",
+   "showTranslation": "Tarjimani koʻrsatish",
+   "showTranslit": "Transkripsiyani koʻrsatish",
+   "arFontSize": "Arabcha shrift oʻlchami",
+   "trFontSize": "Tarjima shrifti oʻlchami",
+   "translitSize": "Transkripsiya oʻlchami",
+   "sidebarColor": "Sura sahifasi rangi",
+   "parchment": "Pergament",
+   "white": "Oq",
+   "dark": "Toʻq",
+   "wordAlign": "Soʻzlarning joylashuvi",
+   "center": "Markazda",
+   "rtlAlign": "Oʻngdan chapga",
+   "appLang": "Ilova tili",
+   "arFont": "Suralar shrifti",
+   "trFont": "Tarjima shrifti",
+   "both": "Ikkalasi",
+   "fullMeaning": "TOʻLIQ MAʼNOSI",
+   "noTranslation": "Bu tildagi tarjima keyinroq qoʻshiladi.",
+   "done": "Tayyor",
+   "notes": "Qaydlar",
+   "noNotes": "Hozircha qaydlar yoʻq",
+   "offlineTitle": "Oflayn tarjimalar",
+   "offlineHint": "Soʻzlar tarjimasi internetdan yuklanadi. Internetsiz oʻqish uchun ularni yuklab oling.",
+   "offlineDownload": "Yuklab olish",
+   "offlineReady": "Yuklab olingan · internetsiz ishlaydi",
+   "offlineDelete": "Oʻchirish",
+   "offlineUpdate": "Yangilash",
+   "offlineError": "Yuklab boʻlmadi. Internetni tekshiring.",
+   "langLoading": "Til yuklanmoqda…",
+   "wordsLoading": "Tarjima yuklanmoqda…",
+   "wordsOffline": "Internet yoʻq: soʻzlar tarjimasi mavjud emas. Tarjimalarni sozlamalarda yuklab oling.",
+   "ayahOne": "oyat",
+   "ayahFew": "oyat",
+   "ayahMany": "oyat",
+   "pluralRule": "none",
+   "contactDev": "Dasturchi bilan bogʻlanish",
+   "emailCopied": "Pochta nusxalandi",
+   "downloadSize": "Yuklab olish hajmi",
+   "unitMB": "MB",
+   "unitGB": "GB"
+  },
+  "place": {
+   "Мекканская": "Makka",
+   "Мединская": "Madina"
+  },
+  "reader": {
+   "note": "Qayd",
+   "copy": "Nusxalash",
+   "audio": "Audio",
+   "noteAdded": "Qayd qoʻshildi",
+   "noteRemoved": "Qayd oʻchirildi",
+   "copied": "Oyat nusxalandi",
+   "audioSoon": "Audioni ijro etish",
+   "notReady": "Bu sura tahlili tayyorlanmoqda",
+   "savedWords": "Soʻzlar roʻyxati",
+   "ayahBg": "Oyatlar foni",
+   "bg_white": "Oq",
+   "bg_sepia": "Sepiya",
+   "bg_grey": "Kulrang",
+   "bg_night": "Tun",
+   "bg_black": "Qora",
+   "allSurahs": "Barcha suralar",
+   "bookmarks": "Xatchoʻplar",
+   "wordSaved": "Soʻz saqlandi",
+   "saveWord": "Soʻzni saqlash",
+   "empty": "Hozircha boʻsh",
+   "theme": "Mavzu",
+   "light": "Yorugʻ",
+   "darkMode": "Qorongʻi",
+   "auto": "Avto",
+   "close": "Yopish",
+   "bookmarkAdd": "Saqlash",
+   "unsaveWord": "Bekor qilish",
+   "wordRemoved": "Soʻz saqlanganlardan oʻchirildi",
+   "readMode": "Oʻqish rejimi",
+   "whole": "Toʻliq",
+   "byPages": "Sahifalab",
+   "quranFull": "Toʻliq Qurʼon",
+   "translationMode": "Tarjima",
+   "mode": "Rejim",
+   "pages": "Sahifalar",
+   "font": "Shrift",
+   "reciter": "Qori",
+   "bismillahTr": "Mehribon va rahmli Alloh nomi bilan",
+   "all": "Hammasi",
+   "ready": "Tayyorlari",
+   "withNotes": "Qaydlilari",
+   "juz": "Pora",
+   "continue": "Oʻqishni davom ettirish",
+   "startReading": "Oʻqishni boshlash",
+   "bookmarksLow": "Xatchoʻplar",
+   "wordsInList": "Soʻzlar",
+   "readOf": "Oʻqildi",
+   "preparing": "Tahlil tayyorlanmoqda",
+   "home": "Bosh sahifa",
+   "words": "Soʻzlar",
+   "subtitle": "Qurʼoni karim soʻzlarining maʼnolari",
+   "audioError": "Audioni yuklab boʻlmadi",
+   "aaDownloadQ": "Bu qorining barcha oyatlari audiosini yuklab olasizmi? Bu koʻp joy egallaydi.",
+   "aaDeleteQ": "Bu qorining yuklab olingan oyatlar audiosi oʻchirilsinmi?",
+   "aaError": "Audioni yuklab boʻlmadi. Internetni tekshiring.",
+   "aaOffline": "oflayn"
+  },
+  "ai_chat": {
+   "left": "Bugun {n} ta savol qoldi",
+   "hint": "Soʻrash",
+   "choose": "Bu oyatda nimani tushuntiray?",
+   "c_tafsir": "Tafsir",
+   "c_tajwid": "Tajvid",
+   "q_tajwid": "Bu oyatni tajvid qoidalari boʻyicha tahlil qil: bu yerda qaysi qoidalar uchraydi, qaysi soʻzlarda va qanday toʻgʻri oʻqiladi.",
+   "q_explain": "Bu oyatning maʼnosini ishonchli tafsirlar asosida tushuntir va qaysi manbalarga tayanayotganingni koʻrsat.",
+   "c_explain": "Oyatni tushuntir",
+   "c_words": "Soʻzlar tahlili",
+   "c_context": "Kontekst",
+   "c_surah": "Sura haqida qisqacha",
+   "c_themes": "Asosiy mavzular",
+   "needPremium": "Sunʼiy intellekt yordamchisi Premiumda mavjud",
+   "subscribe": "Rasmiylashtirish",
+   "copy": "Nusxalash",
+   "copied": "Nusxalandi",
+   "error": "Javob olib boʻlmadi. Qayta urinib koʻring.",
+   "leftShort": "Qoldi: {n}",
+   "history": "Tarix",
+   "backToChat": "Chat",
+   "newChat": "Yangi chat",
+   "noChats": "Hozircha saqlangan chatlar yoʻq",
+   "expand": "Toʻliq ekran",
+   "collapse": "Yigʻish",
+   "ayahWord": "oyat"
+  },
+  "ai_history": {
+   "history": "Tarix",
+   "bills": "Toʻlovlar",
+   "deleteAll": "Hammasini oʻchirish",
+   "deleteAllText": "Soʻrovlar tarixini butunlay oʻchirasizmi? Bu amalni bekor qilib boʻlmaydi.",
+   "emptyHistory": "Hozircha sunʼiy intellektga soʻrovlar yoʻq",
+   "emptyBills": "Hozircha toʻlovlar yoʻq",
+   "paid": "Toʻlangan",
+   "managePlay": "Google Playda boshqarish"
+  },
+  "mp3": {
+   "reciters": "Qorilar",
+   "all": "Hammasi",
+   "listen": "Suralarni tinglash",
+   "nowPlaying": "Hozir yangramoqda",
+   "tapToListen": "Suralar MP3",
+   "pickSurah": "Quyidan surani tanlang",
+   "notAvailable": "Bu qorida yoʻq",
+   "loading": "Qorilar yuklanmoqda…",
+   "loadError": "Qorilarni yuklab boʻlmadi. Internetni tekshiring.",
+   "playError": "Audioni yoqib boʻlmadi",
+   "retry": "Qayta urinish",
+   "searchReciter": "Qorini qidirish",
+   "variants": "ta qiroat varianti",
+   "shuffle": "Tasodifiy tartib",
+   "repeat": "Surani takrorlash",
+   "download": "Yuklab olish",
+   "downloadError": "Surani yuklab boʻlmadi",
+   "deleteDownload": "Yuklab olingan sura telefondan oʻchirilsinmi?",
+   "delete": "Oʻchirish",
+   "cancel": "Bekor qilish",
+   "surahsShort": "ta sura",
+   "reciter": "Qori",
+   "surahs": "Suralar",
+   "downloadAllQ": "Bu qorining barcha suralarini yuklab olasizmi? Bu koʻp joy egallaydi.",
+   "deleteAllQ": "Bu qorining yuklab olingan suralari oʻchirilsinmi?",
+   "size": "Hajmi",
+   "allSurahsN": "Barcha suralar",
+   "left": "Yuklab olish qoldi",
+   "sizeUnknown": "Hajmini aniqlab boʻlmadi",
+   "noNet": "Tarmoq yoʻq",
+   "noNetHint": "Internetsiz faqat yuklab olingan suralar mavjud",
+   "more": "Yana"
+  },
+  "premium": {
+   "title": "Sunʼiy intellekt yordamchili Premium",
+   "perDay": "Kuniga savollar",
+   "period": "MUDDAT",
+   "p_day": "Kun",
+   "p_week": "Hafta",
+   "p_2weeks": "2 hafta",
+   "p_month": "Oy",
+   "p_6months": "6 oy",
+   "p_year": "Yil",
+   "per_week": "haftasiga",
+   "per_month": "oyiga",
+   "per_6months": "6 oy uchun",
+   "per_year": "yiliga",
+   "total": "Jami {n} ta savol · 100 ta savol uchun {p}",
+   "buy": "{p} evaziga rasmiylashtirish",
+   "renew": "Obuna avtomatik ravishda uzaytiriladi. Uni istalgan vaqtda Google Playda bekor qilish mumkin.",
+   "pending": "Toʻlov ishlanmoqda. Premium avtomatik ravishda yoqiladi.",
+   "notDone": "Xarid yakunlanmadi",
+   "forAccount": "Premium quyidagi hisobga rasmiylashtiriladi:",
+   "transferTitle": "Obuna boshqa hisobda",
+   "transferText": "Bu obuna toʻlangan, lekin ilovaning boshqa hisobiga bogʻlangan. Premiumni joriy hisobga oʻtkazasizmi? Boshqa hisobda sunʼiy intellekt yordamchisi oʻchadi.",
+   "transferYes": "Oʻtkazish",
+   "transferNo": "Bekor qilish",
+   "linkHere": "Shu hisobga ulash",
+   "subscribed": "Rasmiylashtirilgan",
+   "alreadyOwned": "Bu tarif allaqachon rasmiylashtirilgan"
+  },
+  "profile": {
+   "signIn": "Kirish",
+   "profile": "Profil",
+   "guestTitle": "Siz tizimga kirmagansiz",
+   "guestText": "Xatchoʻplar va soʻzlar bulutda saqlanishi hamda sunʼiy intellektli Premium mavjud boʻlishi uchun tizimga kiring",
+   "localOnly": "Hozir hammasi faqat shu telefonda saqlanmoqda",
+   "linked": "Google hisobi ulangan",
+   "ofAyahs": "Qurʼondagi {n} ta oyatdan",
+   "surahsDone": "Toʻliq oʻqilgan suralar: {n}",
+   "ayahsRead": "ta oyat oʻqildi",
+   "premText": "Tez orada",
+   "aiTitle": "Sunʼiy intellekt yordamchisi",
+   "aiSub": "Oyatlar va soʻzlar boʻyicha tushuntirishlar va javoblar",
+   "aiSoon": "Tez orada mavjud boʻladi",
+   "cancelSub": "Obunani bekor qilish",
+   "deleteProfile": "Profilni oʻchirish",
+   "deleteQ": "Profil oʻchirilsinmi?",
+   "deleteText": "Hisob va uning barcha maʼlumotlari — xatchoʻplar, saqlangan soʻzlar, oʻqish jarayoni va sunʼiy intellekt tarixi — serverda va shu telefonda oʻchiriladi. Bu amalni bekor qilib boʻlmaydi.\n\nBunda Google Play obunasi bekor qilinmaydi.",
+   "cancelSubQ": "Obuna bekor qilinsinmi?",
+   "cancelSubText": "Google Play ochiladi, u yerda obunani bekor qilish mumkin. Premium va sunʼiy intellekt yordamchisi toʻlangan muddat oxirigacha ishlaydi.",
+   "keepSub": "Qoldirish",
+   "toCancel": "Ha, bekor qilish",
+   "cancel": "Bekor qilish",
+   "delete": "Oʻchirish",
+   "signOut": "Hisobdan chiqish",
+   "subBlockTitle": "Avval obunani bekor qiling",
+   "subBlockText": "Sizda avtomatik uzaytiriladigan Premium obunasi bor. Hisobni oʻchirish uni bekor qilmaydi — Google Play toʻlovni yechishda davom etadi. Obunani Google Playda bekor qiling, shundan keyin hisobni oʻchirish mumkin boʻladi."
+  },
+  "onboarding": {
+   "lang": "TIL",
+   "syncTitle": "Kiring — hech narsa yoʻqolmaydi",
+   "syncText": "Xatchoʻplar va soʻzlar bulutda, oʻqish joyi barcha qurilmalarda",
+   "premTitle": "Sunʼiy intellektli Premium",
+   "premText": "Kirgandan keyin ochiladi",
+   "google": "Google orqali kirish",
+   "skip": "Oʻtkazib yuborish",
+   "terms": "Davom etib, Shartlar va Maxfiylik siyosatini qabul qilasiz",
+   "soon": "Google orqali kirish tez orada qoʻshiladi",
+   "netError": "Internet yoʻq. Til yuklanmadi — ulanib, qayta urinib koʻring",
+   "retry": "Qayta urinish",
+   "loading": "Til yuklanmoqda…",
+   "cfgError": "GitHub hisobi koʻrsatilmagan: lib/content/content_store.dart faylida YOUR_GITHUB ni almashtiring",
+   "notFound": "Til fayli GitHubʼda topilmadi (404). Hisob nomini, repozitoriy ochiqligini va fayllar ildizda joylashganini tekshiring",
+   "failed": "Kirib boʻlmadi. Qayta urinib koʻring"
+  },
+  "legal": {
+   "terms": "Shartlar",
+   "privacy": "Maxfiylik",
+   "offline": "Yuklab boʻlmadi. Internetni tekshirib, qayta urinib koʻring."
+  }
+ },
+ "surahs": {
+  "1": [
+   "Fotiha",
+   "Ochuvchi"
+  ],
+  "2": [
+   "Baqara",
+   "Sigir"
+  ],
+  "3": [
+   "Oli Imron",
+   "Imron oilasi"
+  ],
+  "4": [
+   "Niso",
+   "Ayollar"
+  ],
+  "5": [
+   "Moida",
+   "Dasturxon"
+  ],
+  "6": [
+   "Anʼom",
+   "Chorva hayvonlari"
+  ],
+  "7": [
+   "Aʼrof",
+   "Aʼrof"
+  ],
+  "8": [
+   "Anfol",
+   "Oʻljalar"
+  ],
+  "9": [
+   "Tavba",
+   "Tavba"
+  ],
+  "10": [
+   "Yunus",
+   "Yunus"
+  ],
+  "11": [
+   "Hud",
+   "Hud"
+  ],
+  "12": [
+   "Yusuf",
+   "Yusuf"
+  ],
+  "13": [
+   "Raʼd",
+   "Momaqaldiroq"
+  ],
+  "14": [
+   "Ibrohim",
+   "Ibrohim"
+  ],
+  "15": [
+   "Hijr",
+   "Hijr"
+  ],
+  "16": [
+   "Nahl",
+   "Asalari"
+  ],
+  "17": [
+   "Isro",
+   "Tungi sayr"
+  ],
+  "18": [
+   "Kahf",
+   "Gʻor"
+  ],
+  "19": [
+   "Maryam",
+   "Maryam"
+  ],
+  "20": [
+   "Toha",
+   "Toha"
+  ],
+  "21": [
+   "Anbiyo",
+   "Paygʻambarlar"
+  ],
+  "22": [
+   "Haj",
+   "Haj"
+  ],
+  "23": [
+   "Moʻminun",
+   "Moʻminlar"
+  ],
+  "24": [
+   "Nur",
+   "Nur"
+  ],
+  "25": [
+   "Furqon",
+   "Ajratuvchi"
+  ],
+  "26": [
+   "Shuaro",
+   "Shoirlar"
+  ],
+  "27": [
+   "Naml",
+   "Chumolilar"
+  ],
+  "28": [
+   "Qasas",
+   "Qissalar"
+  ],
+  "29": [
+   "Ankabut",
+   "Oʻrgimchak"
+  ],
+  "30": [
+   "Rum",
+   "Rumliklar"
+  ],
+  "31": [
+   "Luqmon",
+   "Luqmon"
+  ],
+  "32": [
+   "Sajda",
+   "Sajda"
+  ],
+  "33": [
+   "Ahzob",
+   "Guruhlar"
+  ],
+  "34": [
+   "Saba",
+   "Saba"
+  ],
+  "35": [
+   "Fotir",
+   "Yaratuvchi"
+  ],
+  "36": [
+   "Yosin",
+   "Yosin"
+  ],
+  "37": [
+   "Soffot",
+   "Saf tortganlar"
+  ],
+  "38": [
+   "Sod",
+   "Sod"
+  ],
+  "39": [
+   "Zumar",
+   "Toʻdalar"
+  ],
+  "40": [
+   "Gʻofir",
+   "Kechiruvchi"
+  ],
+  "41": [
+   "Fussilat",
+   "Batafsil bayon qilingan"
+  ],
+  "42": [
+   "Shuro",
+   "Maslahat"
+  ],
+  "43": [
+   "Zuxruf",
+   "Zeb-ziynat"
+  ],
+  "44": [
+   "Duxon",
+   "Tutun"
+  ],
+  "45": [
+   "Josiya",
+   "Tiz choʻkkanlar"
+  ],
+  "46": [
+   "Ahqof",
+   "Qum tepaliklari"
+  ],
+  "47": [
+   "Muhammad",
+   "Muhammad"
+  ],
+  "48": [
+   "Fath",
+   "Gʻalaba"
+  ],
+  "49": [
+   "Hujurot",
+   "Xonalar"
+  ],
+  "50": [
+   "Qof",
+   "Qof"
+  ],
+  "51": [
+   "Zoriyot",
+   "Toʻzituvchilar"
+  ],
+  "52": [
+   "Tur",
+   "Tur togʻi"
+  ],
+  "53": [
+   "Najm",
+   "Yulduz"
+  ],
+  "54": [
+   "Qamar",
+   "Oy"
+  ],
+  "55": [
+   "Rahmon",
+   "Mehribon"
+  ],
+  "56": [
+   "Voqea",
+   "Voqea"
+  ],
+  "57": [
+   "Hadid",
+   "Temir"
+  ],
+  "58": [
+   "Mujodala",
+   "Bahslashuvchi ayol"
+  ],
+  "59": [
+   "Hashr",
+   "Toʻplanish"
+  ],
+  "60": [
+   "Mumtahana",
+   "Imtihon qilinuvchi ayol"
+  ],
+  "61": [
+   "Saff",
+   "Saf"
+  ],
+  "62": [
+   "Jumʼa",
+   "Juma"
+  ],
+  "63": [
+   "Munofiqun",
+   "Munofiqlar"
+  ],
+  "64": [
+   "Tagʻobun",
+   "Aldanish"
+  ],
+  "65": [
+   "Taloq",
+   "Ajrashish"
+  ],
+  "66": [
+   "Tahrim",
+   "Harom qilish"
+  ],
+  "67": [
+   "Mulk",
+   "Hukmronlik"
+  ],
+  "68": [
+   "Qalam",
+   "Qalam"
+  ],
+  "69": [
+   "Hoqqa",
+   "Muqarrar voqea"
+  ],
+  "70": [
+   "Maʼorij",
+   "Yuksalish yoʻllari"
+  ],
+  "71": [
+   "Nuh",
+   "Nuh"
+  ],
+  "72": [
+   "Jin",
+   "Jinlar"
+  ],
+  "73": [
+   "Muzzammil",
+   "Oʻranib olgan"
+  ],
+  "74": [
+   "Muddassir",
+   "Burkanib olgan"
+  ],
+  "75": [
+   "Qiyomat",
+   "Qiyomat"
+  ],
+  "76": [
+   "Inson",
+   "Inson"
+  ],
+  "77": [
+   "Mursalot",
+   "Yuborilganlar"
+  ],
+  "78": [
+   "Nabaʼ",
+   "Xabar"
+  ],
+  "79": [
+   "Noziʼot",
+   "Sugʻurib oluvchilar"
+  ],
+  "80": [
+   "Abasa",
+   "Qovogʻini soldi"
+  ],
+  "81": [
+   "Takvir",
+   "Oʻralish"
+  ],
+  "82": [
+   "Infitor",
+   "Yorilish"
+  ],
+  "83": [
+   "Mutoffifin",
+   "Oʻlchovda urib qoluvchilar"
+  ],
+  "84": [
+   "Inshiqoq",
+   "Yorilib ketish"
+  ],
+  "85": [
+   "Buruj",
+   "Burjlar"
+  ],
+  "86": [
+   "Toriq",
+   "Tunda keluvchi"
+  ],
+  "87": [
+   "Aʼlo",
+   "Eng oliy"
+  ],
+  "88": [
+   "Gʻoshiya",
+   "Qoplovchi"
+  ],
+  "89": [
+   "Fajr",
+   "Tong"
+  ],
+  "90": [
+   "Balad",
+   "Shahar"
+  ],
+  "91": [
+   "Shams",
+   "Quyosh"
+  ],
+  "92": [
+   "Layl",
+   "Kecha"
+  ],
+  "93": [
+   "Zuho",
+   "Choshgoh"
+  ],
+  "94": [
+   "Sharh",
+   "Koʻksni ochish"
+  ],
+  "95": [
+   "Tin",
+   "Anjir"
+  ],
+  "96": [
+   "Alaq",
+   "Laxta qon"
+  ],
+  "97": [
+   "Qadr",
+   "Qadr"
+  ],
+  "98": [
+   "Bayyina",
+   "Ochiq dalil"
+  ],
+  "99": [
+   "Zalzala",
+   "Zilzila"
+  ],
+  "100": [
+   "Odiyot",
+   "Chopqir otlar"
+  ],
+  "101": [
+   "Qoriʼa",
+   "Qattiq urilish"
+  ],
+  "102": [
+   "Takosur",
+   "Koʻpaytirish"
+  ],
+  "103": [
+   "Asr",
+   "Asr"
+  ],
+  "104": [
+   "Humaza",
+   "Gʻiybatchi"
+  ],
+  "105": [
+   "Fil",
+   "Fil"
+  ],
+  "106": [
+   "Quraysh",
+   "Quraysh"
+  ],
+  "107": [
+   "Moʻun",
+   "Arzimas yordam"
+  ],
+  "108": [
+   "Kavsar",
+   "Kavsar"
+  ],
+  "109": [
+   "Kofirun",
+   "Kofirlar"
+  ],
+  "110": [
+   "Nasr",
+   "Yordam"
+  ],
+  "111": [
+   "Masad",
+   "Pishiq arqon"
+  ],
+  "112": [
+   "Ixlos",
+   "Ixlos"
+  ],
+  "113": [
+   "Falaq",
+   "Tong"
+  ],
+  "114": [
+   "Nos",
+   "Odamlar"
+  ]
+ }
+}

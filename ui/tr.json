@@ -110,7 +110,11 @@
    "home": "Ana sayfa",
    "words": "Kelimeler",
    "subtitle": "Kur’an kelimelerinin anlamları",
-   "audioError": "Ses yüklenemedi"
+   "audioError": "Ses yüklenemedi",
+   "aaDownloadQ": "Bu okuyucunun tüm ayetlerinin sesi indirilsin mi? Çok yer kaplar.",
+   "aaDeleteQ": "Bu okuyucunun indirilen ayet sesleri silinsin mi?",
+   "aaError": "Ses indirilemedi. İnternet bağlantınızı kontrol edin.",
+   "aaOffline": "çevrimdışı"
   },
   "ai_chat": {
    "left": "Bugün {n} soru kaldı",
@@ -201,7 +205,15 @@
    "buy": "{p} karşılığında al",
    "renew": "Otomatik yenilenir. Google Play üzerinden istediğiniz zaman iptal edin.",
    "pending": "Ödeme işleniyor. Premium otomatik olarak açılacak.",
-   "notDone": "Satın alma tamamlanmadı"
+   "notDone": "Satın alma tamamlanmadı",
+   "forAccount": "Premium şu hesaba bağlanacak:",
+   "transferTitle": "Abonelik başka bir hesapta",
+   "transferText": "Bu abonelik ödendi ancak başka bir uygulama hesabına bağlı. Premium bu hesaba taşınsın mı? Diğer hesapta yapay zekâ asistanı kapanacak.",
+   "transferYes": "Taşı",
+   "transferNo": "İptal",
+   "linkHere": "Bu hesaba bağla",
+   "subscribed": "Abone olundu",
+   "alreadyOwned": "Bu plana zaten sahipsiniz"
   },
   "profile": {
    "signIn": "Giriş",
@@ -230,6 +242,28 @@
    "signOut": "Çıkış yap",
    "subBlockTitle": "Önce aboneliğinizi iptal edin",
    "subBlockText": "Otomatik yenilenen bir Premium aboneliğiniz var. Hesabı silmek aboneliği iptal etmez — Google Play ödeme almaya devam eder. Aboneliği Google Play’de iptal edin, ardından hesabınızı silebilirsiniz."
+  },
+  "onboarding": {
+   "lang": "DİL",
+   "syncTitle": "Giriş yapın, hiçbir şey kaybolmasın",
+   "syncText": "Yer imleri ve kelimeler bulutta, okuma yeri tüm cihazlarda",
+   "premTitle": "Yapay zekâlı Premium",
+   "premText": "Girişten sonra açılır",
+   "google": "Google ile giriş yap",
+   "skip": "Atla",
+   "terms": "Devam ederek Koşulları ve Gizlilik Politikasını kabul edersiniz",
+   "soon": "Google ile giriş yakında",
+   "netError": "İnternet yok. Dil indirilemedi — bağlanıp tekrar deneyin",
+   "retry": "Tekrar dene",
+   "loading": "Dil yükleniyor…",
+   "cfgError": "GitHub hesabı belirtilmedi: lib/content/content_store.dart içinde YOUR_GITHUB değiştirin",
+   "notFound": "Dil dosyası GitHub’da bulunamadı (404). Hesap adını, deponun herkese açık olduğunu ve dosyaların kökte olduğunu kontrol edin",
+   "failed": "Giriş başarısız. Tekrar deneyin"
+  },
+  "legal": {
+   "terms": "Koşullar",
+   "privacy": "Gizlilik",
+   "offline": "Yüklenemedi. İnternet bağlantınızı kontrol edip tekrar deneyin."
   }
  },
  "surahs": {

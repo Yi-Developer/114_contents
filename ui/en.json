@@ -110,7 +110,11 @@
    "home": "Home",
    "words": "Words",
    "subtitle": "Word meanings of the Holy Quran",
-   "audioError": "Could not load audio"
+   "audioError": "Could not load audio",
+   "aaDownloadQ": "Download audio for all verses by this reciter? It takes a lot of space.",
+   "aaDeleteQ": "Delete the downloaded verse audio of this reciter?",
+   "aaError": "Could not download the audio. Check your connection.",
+   "aaOffline": "offline"
   },
   "ai_chat": {
    "left": "{n} questions left today",
@@ -201,7 +205,15 @@
    "buy": "Get it for {p}",
    "renew": "Renews automatically. Cancel any time in Google Play.",
    "pending": "Payment is processing. Premium will turn on automatically.",
-   "notDone": "Purchase not completed"
+   "notDone": "Purchase not completed",
+   "forAccount": "Premium will be linked to the account:",
+   "transferTitle": "Subscription is on another account",
+   "transferText": "This subscription is paid for but linked to another app account. Move Premium to the current account? The AI assistant will be turned off on the other account.",
+   "transferYes": "Move",
+   "transferNo": "Cancel",
+   "linkHere": "Link to this account",
+   "subscribed": "Subscribed",
+   "alreadyOwned": "You already have this plan"
   },
   "profile": {
    "signIn": "Sign in",
@@ -230,6 +242,28 @@
    "signOut": "Sign out",
    "subBlockTitle": "Cancel your subscription first",
    "subBlockText": "You have a Premium subscription that renews automatically. Deleting your account does not cancel it — Google Play would keep charging you. Cancel the subscription in Google Play, then you can delete your account."
+  },
+  "onboarding": {
+   "lang": "LANGUAGE",
+   "syncTitle": "Sign in and keep everything",
+   "syncText": "Bookmarks and words in the cloud, reading place on every device",
+   "premTitle": "Premium with AI",
+   "premText": "Available after sign-in",
+   "google": "Sign in with Google",
+   "skip": "Skip",
+   "terms": "By continuing you accept the Terms and Privacy Policy",
+   "soon": "Google sign-in is coming soon",
+   "netError": "No internet. The language was not downloaded — connect and try again",
+   "retry": "Retry",
+   "loading": "Loading language…",
+   "cfgError": "GitHub account not set: replace YOUR_GITHUB in lib/content/content_store.dart",
+   "notFound": "Language file not found on GitHub (404). Check the account name, that the repository is public and files are in its root",
+   "failed": "Sign-in failed. Please try again"
+  },
+  "legal": {
+   "terms": "Terms",
+   "privacy": "Privacy",
+   "offline": "Could not load. Check your internet connection and try again."
   }
  },
  "surahs": {

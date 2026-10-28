@@ -2,34 +2,39 @@
  "v": 1,
  "ui": {
   "ru": {
-   "v": 2,
-   "sha": "1ed88fb1c30ff2e55cd07d3a8719a64c3b57c614",
-   "bytes": 18342
+   "v": 3,
+   "sha": "d5f91eb0e647eddc04fb0f9206e9b103763320eb",
+   "bytes": 20921
   },
   "kk": {
-   "v": 2,
-   "sha": "594e20759e6f2fc293e3d249fbcbbcda7f46783c",
-   "bytes": 17856
+   "v": 3,
+   "sha": "07361190144ab040dd11368111858f0fe764fa8a",
+   "bytes": 20433
   },
   "en": {
-   "v": 2,
-   "sha": "3376d2005989984b9a415a21355467b93a6a3db5",
-   "bytes": 13628
+   "v": 3,
+   "sha": "c8b81b86df576cef462b1e268ccf67150aaf895a",
+   "bytes": 15351
   },
   "ky": {
-   "v": 2,
-   "sha": "0ea0790c2d470ea8e328bf1932dd03efe988e1df",
-   "bytes": 18277
+   "v": 3,
+   "sha": "2b6480db611926325af131acd7af9e8e97b6e26f",
+   "bytes": 20956
   },
   "tr": {
-   "v": 2,
-   "sha": "0c7c3a6642d67f21d0646977907f2ca4361596fb",
-   "bytes": 13233
+   "v": 3,
+   "sha": "14d8d27440faa913fb950228f973b539fa155e7d",
+   "bytes": 15007
   },
   "ar": {
-   "v": 2,
-   "sha": "c878782db14fa536a22a97e61463e595bdf77b7d",
-   "bytes": 16223
+   "v": 3,
+   "sha": "445744c379493baafa0bac9fbcc641b9a620ad0c",
+   "bytes": 18566
+  },
+  "uz": {
+   "v": 1,
+   "sha": "782c09a74951792c4a9b63f5d62d6cf2ac2b900a",
+   "bytes": 15442
   }
  },
  "words": {
@@ -62,6 +67,12 @@
    "sha": "df0f5c1b0a77c9265e32ecac122fe88f42a14711",
    "files": 114,
    "bytes": 10426363
+  },
+  "uz": {
+   "v": 1,
+   "sha": "a7c387b7f6cb7b213f71bc99404af3c09ed4869a",
+   "files": 114,
+   "bytes": 5438697
   },
   "ar": {
    "v": 1,
@@ -100,6 +111,11 @@
    "v": 4,
    "sha": "be417f5396bc64fa7105c5fe3036656c82b39422",
    "bytes": 3246
+  },
+  "uz": {
+   "v": 1,
+   "sha": "c6a5793db1b1d200cc8e8c9a2d6e85c748c4886b",
+   "bytes": 3395
   }
  },
  "terms": {
@@ -132,6 +148,11 @@
    "v": 4,
    "sha": "4fa7c230ce59cfdbb632dc4c894951112b70cce4",
    "bytes": 3032
+  },
+  "uz": {
+   "v": 1,
+   "sha": "b5c890eee1f9a856ade1582808b4c87263a23456",
+   "bytes": 3049
   }
  }
 }

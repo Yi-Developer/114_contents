@@ -6,6 +6,8 @@
 
 Что делает:
   • words/<язык>/NNN.json  — краткий и подробный перевод слов (ru, en, tr, kk, ky);
+    words/uz и другие языки без .dart-источника не перезаписываются — для них
+    только проверяется число слов и обновляется версия в manifest.json;
   • words/ar/NNN.json      — арабское толкование автора (fullAr);
   • manifest.json          — у изменившихся пакетов (words, ui, privacy, terms)
                              повышает версию "v",
@@ -54,7 +56,8 @@ def main():
     if len(sys.argv) < 2: print(__doc__); sys.exit(1)
     src = sys.argv[1]
     app = sys.argv[sys.argv.index('--app') + 1] if '--app' in sys.argv else None
-    hashes = {p: hashlib.sha1() for p in LANGS + ['ar']}
+    EXTRA = [l for l in sorted(os.listdir(f'{REPO}/words')) if l not in LANGS + ['ar']]
+    hashes = {p: hashlib.sha1() for p in LANGS + ['ar'] + EXTRA}
     core = []; names = {l: {} for l in LANGS + ['ar']}
     for s in range(1, 115):
         txt, es = parse(f'{src}/surah_{s:03d}.dart')
@@ -71,6 +74,17 @@ def main():
             hashes[l].update(h.encode())
         h = dump(f'{REPO}/words/ar/{s:03d}.json', {'s': s, 'l': 'ar', 'a': [[e['fullAr'] for e in a] for a in ay]})
         hashes['ar'].update(h.encode())
+        # языки, которых нет в surah_XXX.dart (например, uz): файлы не
+        # перезаписываются, только сверяется число слов и считается версия
+        for l in EXTRA:
+            p = f'{REPO}/words/{l}/{s:03d}.json'
+            if not os.path.exists(p): continue
+            data = open(p, 'rb').read()
+            got = [len(x) for x in json.loads(data)['a']]
+            if got != [len(a) for a in ay]:
+                bad = [i + 1 for i, (g, a) in enumerate(zip(got, ay)) if g != len(a)]
+                print(f'ВНИМАНИЕ: words/{l}/{s:03d}.json — число слов не совпадает, аяты {bad or "(число аятов)"}')
+            hashes[l].update(hashlib.sha1(data).hexdigest().encode())
     # названия сур в языковых пакетах интерфейса
     for l in names:
         p = f'{REPO}/ui/{l}.json'
