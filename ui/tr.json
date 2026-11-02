@@ -114,7 +114,10 @@
    "aaDownloadQ": "Bu okuyucunun tüm ayetlerinin sesi indirilsin mi? Çok yer kaplar.",
    "aaDeleteQ": "Bu okuyucunun indirilen ayet sesleri silinsin mi?",
    "aaError": "Ses indirilemedi. İnternet bağlantınızı kontrol edin.",
-   "aaOffline": "çevrimdışı"
+   "aaOffline": "çevrimdışı",
+   "copyWord": "Kopyala",
+   "copiedShort": "Kopyalandı",
+   "showArExplain": "Arapça açıklama"
   },
   "ai_chat": {
    "left": "Bugün {n} soru kaldı",
@@ -241,7 +244,17 @@
    "delete": "Sil",
    "signOut": "Çıkış yap",
    "subBlockTitle": "Önce aboneliğinizi iptal edin",
-   "subBlockText": "Otomatik yenilenen bir Premium aboneliğiniz var. Hesabı silmek aboneliği iptal etmez — Google Play ödeme almaya devam eder. Aboneliği Google Play’de iptal edin, ardından hesabınızı silebilirsiniz."
+   "subBlockText": "Otomatik yenilenen bir Premium aboneliğiniz var. Hesabı silmek aboneliği iptal etmez — Google Play ödeme almaya devam eder. Aboneliği Google Play’de iptal edin, ardından hesabınızı silebilirsiniz.",
+   "delWillTitle": "Kalıcı olarak silinecek:",
+   "delBookmarks": "Yer imleri",
+   "delWords": "Kaydedilen kelimeler",
+   "delProgress": "Okuma ilerlemesi",
+   "delAiHistory": "YZ geçmişi",
+   "delSubNote": "Google Play aboneliğiniz bununla iptal edilmez.",
+   "subNextTitle": "Bundan sonra ne olacak:",
+   "subOpensPlay": "Google Play açılacak",
+   "subWorksUntil": "Premium dönem sonuna kadar çalışır",
+   "subNoCharges": "Yeni ücret alınmaz"
   },
   "onboarding": {
    "lang": "DİL",

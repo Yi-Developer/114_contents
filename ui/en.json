@@ -114,7 +114,10 @@
    "aaDownloadQ": "Download audio for all verses by this reciter? It takes a lot of space.",
    "aaDeleteQ": "Delete the downloaded verse audio of this reciter?",
    "aaError": "Could not download the audio. Check your connection.",
-   "aaOffline": "offline"
+   "aaOffline": "offline",
+   "copyWord": "Copy",
+   "copiedShort": "Copied",
+   "showArExplain": "Arabic explanation"
   },
   "ai_chat": {
    "left": "{n} questions left today",
@@ -241,7 +244,17 @@
    "delete": "Delete",
    "signOut": "Sign out",
    "subBlockTitle": "Cancel your subscription first",
-   "subBlockText": "You have a Premium subscription that renews automatically. Deleting your account does not cancel it — Google Play would keep charging you. Cancel the subscription in Google Play, then you can delete your account."
+   "subBlockText": "You have a Premium subscription that renews automatically. Deleting your account does not cancel it — Google Play would keep charging you. Cancel the subscription in Google Play, then you can delete your account.",
+   "delWillTitle": "Will be deleted forever:",
+   "delBookmarks": "Bookmarks",
+   "delWords": "Saved words",
+   "delProgress": "Reading progress",
+   "delAiHistory": "AI history",
+   "delSubNote": "Your Google Play subscription is not cancelled by this.",
+   "subNextTitle": "What happens next:",
+   "subOpensPlay": "Google Play will open",
+   "subWorksUntil": "Premium works until the period ends",
+   "subNoCharges": "No new charges"
   },
   "onboarding": {
    "lang": "LANGUAGE",

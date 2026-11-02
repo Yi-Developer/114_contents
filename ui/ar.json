@@ -114,7 +114,10 @@
    "aaDownloadQ": "تنزيل صوت جميع الآيات لهذا القارئ؟ سيشغل مساحة كبيرة.",
    "aaDeleteQ": "حذف صوت الآيات المنزّل لهذا القارئ؟",
    "aaError": "تعذّر تنزيل الصوت. تحقّق من الاتصال بالإنترنت.",
-   "aaOffline": "دون إنترنت"
+   "aaOffline": "دون إنترنت",
+   "copyWord": "نسخ",
+   "copiedShort": "تم النسخ",
+   "showArExplain": "التفسير العربي"
   },
   "ai_chat": {
    "left": "تبقى {n} سؤالًا اليوم",
@@ -241,7 +244,17 @@
    "delete": "حذف",
    "signOut": "تسجيل الخروج",
    "subBlockTitle": "ألغِ اشتراكك أولاً",
-   "subBlockText": "لديك اشتراك بريميوم يتجدّد تلقائياً. حذف الحساب لا يلغيه، وستستمر Google Play في تحصيل الرسوم. ألغِ الاشتراك من Google Play، وبعدها يمكنك حذف حسابك."
+   "subBlockText": "لديك اشتراك بريميوم يتجدّد تلقائياً. حذف الحساب لا يلغيه، وستستمر Google Play في تحصيل الرسوم. ألغِ الاشتراك من Google Play، وبعدها يمكنك حذف حسابك.",
+   "delWillTitle": "سيُحذف نهائيًا:",
+   "delBookmarks": "العلامات",
+   "delWords": "الكلمات المحفوظة",
+   "delProgress": "تقدّم القراءة",
+   "delAiHistory": "سجل الذكاء الاصطناعي",
+   "delSubNote": "لا يُلغى اشتراك Google Play بذلك.",
+   "subNextTitle": "ماذا سيحدث بعد ذلك:",
+   "subOpensPlay": "سيُفتح Google Play",
+   "subWorksUntil": "يعمل Premium حتى نهاية الفترة",
+   "subNoCharges": "لن تُخصم مبالغ جديدة"
   },
   "onboarding": {
    "lang": "اللغة",

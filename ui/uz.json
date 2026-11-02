@@ -114,7 +114,10 @@
    "aaDownloadQ": "Bu qorining barcha oyatlari audiosini yuklab olasizmi? Bu koʻp joy egallaydi.",
    "aaDeleteQ": "Bu qorining yuklab olingan oyatlar audiosi oʻchirilsinmi?",
    "aaError": "Audioni yuklab boʻlmadi. Internetni tekshiring.",
-   "aaOffline": "oflayn"
+   "aaOffline": "oflayn",
+   "copyWord": "Nusxalash",
+   "copiedShort": "Nusxalandi",
+   "showArExplain": "Arabcha izoh"
   },
   "ai_chat": {
    "left": "Bugun {n} ta savol qoldi",
@@ -241,7 +244,17 @@
    "delete": "Oʻchirish",
    "signOut": "Hisobdan chiqish",
    "subBlockTitle": "Avval obunani bekor qiling",
-   "subBlockText": "Sizda avtomatik uzaytiriladigan Premium obunasi bor. Hisobni oʻchirish uni bekor qilmaydi — Google Play toʻlovni yechishda davom etadi. Obunani Google Playda bekor qiling, shundan keyin hisobni oʻchirish mumkin boʻladi."
+   "subBlockText": "Sizda avtomatik uzaytiriladigan Premium obunasi bor. Hisobni oʻchirish uni bekor qilmaydi — Google Play toʻlovni yechishda davom etadi. Obunani Google Playda bekor qiling, shundan keyin hisobni oʻchirish mumkin boʻladi.",
+   "delWillTitle": "Butunlay o‘chiriladi:",
+   "delBookmarks": "Xatcho‘plar",
+   "delWords": "Saqlangan so‘zlar",
+   "delProgress": "O‘qish jarayoni",
+   "delAiHistory": "SI tarixi",
+   "delSubNote": "Google Play obunasi bu bilan bekor qilinmaydi.",
+   "subNextTitle": "Keyin nima bo‘ladi:",
+   "subOpensPlay": "Google Play ochiladi",
+   "subWorksUntil": "Premium davr oxirigacha ishlaydi",
+   "subNoCharges": "Yangi to‘lov olinmaydi"
   },
   "onboarding": {
    "lang": "TIL",
