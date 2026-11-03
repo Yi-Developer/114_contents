@@ -117,7 +117,11 @@
    "aaOffline": "دون إنترنت",
    "copyWord": "نسخ",
    "copiedShort": "تم النسخ",
-   "showArExplain": "التفسير العربي"
+   "showArExplain": "التفسير العربي",
+   "hintWord": "اضغط على الكلمة",
+   "hintWordSub": "التفسير والشرح",
+   "hintAyah": "اضغط على رقم الآية",
+   "hintAyahSub": "علامة، نسخ، استماع"
   },
   "ai_chat": {
    "left": "تبقى {n} سؤالًا اليوم",

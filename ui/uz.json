@@ -117,7 +117,11 @@
    "aaOffline": "oflayn",
    "copyWord": "Nusxalash",
    "copiedShort": "Nusxalandi",
-   "showArExplain": "Arabcha izoh"
+   "showArExplain": "Arabcha izoh",
+   "hintWord": "Soʻzni bosing",
+   "hintWordSub": "Tarjima va izoh",
+   "hintAyah": "Oyat raqamini bosing",
+   "hintAyahSub": "Xatchoʻp, nusxa, audio"
   },
   "ai_chat": {
    "left": "Bugun {n} ta savol qoldi",

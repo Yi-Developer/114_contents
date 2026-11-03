@@ -117,7 +117,11 @@
    "aaOffline": "offline",
    "copyWord": "Copy",
    "copiedShort": "Copied",
-   "showArExplain": "Arabic explanation"
+   "showArExplain": "Arabic explanation",
+   "hintWord": "Tap a word",
+   "hintWordSub": "Translation and explanation",
+   "hintAyah": "Tap the ayah number",
+   "hintAyahSub": "Bookmark, copy, audio"
   },
   "ai_chat": {
    "left": "{n} questions left today",

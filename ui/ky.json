@@ -117,7 +117,11 @@
    "aaOffline": "офлайн",
    "copyWord": "Көчүрүү",
    "copiedShort": "Көчүрүлдү",
-   "showArExplain": "Арабча түшүндүрмө"
+   "showArExplain": "Арабча түшүндүрмө",
+   "hintWord": "Сөздү басыңыз",
+   "hintWordSub": "Котормосу жана түшүндүрмөсү",
+   "hintAyah": "Аяттын номерин басыңыз",
+   "hintAyahSub": "Кыстарма, көчүрүү, аудио"
   },
   "ai_chat": {
    "left": "Бүгүн {n} суроо калды",

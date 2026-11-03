@@ -117,7 +117,11 @@
    "aaOffline": "çevrimdışı",
    "copyWord": "Kopyala",
    "copiedShort": "Kopyalandı",
-   "showArExplain": "Arapça açıklama"
+   "showArExplain": "Arapça açıklama",
+   "hintWord": "Bir kelimeye dokunun",
+   "hintWordSub": "Anlamı ve açıklaması",
+   "hintAyah": "Ayet numarasına dokunun",
+   "hintAyahSub": "Yer imi, kopyala, ses"
   },
   "ai_chat": {
    "left": "Bugün {n} soru kaldı",
