@@ -2,39 +2,39 @@
  "v": 1,
  "ui": {
   "ru": {
-   "v": 5,
-   "sha": "a30ff8313cba0535f71de3ced28054d17845fdb7",
-   "bytes": 21897
+   "v": 6,
+   "sha": "c9647d6949dcc610939719eabf1bdbd519017376",
+   "bytes": 24237
   },
   "kk": {
-   "v": 5,
-   "sha": "ab02ff387047254a7791d16171e4aae259f27b99",
-   "bytes": 21386
+   "v": 6,
+   "sha": "d993fd5876410da806f766ce2f3ea145863df7eb",
+   "bytes": 23590
   },
   "en": {
-   "v": 5,
-   "sha": "1cb3edecb06a1e984b81d6cbf96cebc255a15773",
-   "bytes": 16040
+   "v": 6,
+   "sha": "102a2d21c82e0dd6d84c4b18b30a655befcb5d81",
+   "bytes": 17564
   },
   "ky": {
-   "v": 5,
-   "sha": "af0de81dc0b7ff53ff16d0adb50d0a84ad8c32e8",
-   "bytes": 21920
+   "v": 6,
+   "sha": "4182f0deff201536a88c9b3f333e6065a4035f35",
+   "bytes": 24166
   },
   "tr": {
-   "v": 5,
-   "sha": "d017a3a00a4a71702e9ddb446dc965f0358e8d9f",
-   "bytes": 15739
+   "v": 6,
+   "sha": "518b9df5027f5f3799676deff4bcab97644ffa09",
+   "bytes": 17294
   },
   "ar": {
-   "v": 5,
-   "sha": "5bd465db3bf20e9dd7c3acf93b5b171d3b95b52e",
-   "bytes": 19437
+   "v": 6,
+   "sha": "f4c8f4f8bf16faf0396fc561f112e3eec5b90d20",
+   "bytes": 21444
   },
   "uz": {
-   "v": 3,
-   "sha": "7913934b1066625c05375e8a5cd17d81e7e65a15",
-   "bytes": 16140
+   "v": 4,
+   "sha": "a10027541efb7919adf3345e78abee66808a81ed",
+   "bytes": 17777
   }
  },
  "words": {
