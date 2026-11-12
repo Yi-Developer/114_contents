@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-Son güncelleme: 21 Ekim 2026
+Son güncelleme: 12 Kasım 2026
 
 Bu politika, “114” uygulamasının (kelime kelime açıklamalı Kur’an) hangi verileri işlediğini, bunun neden gerekli olduğunu ve verilerinizi nasıl yönetebileceğinizi açıklar. Uygulamayı tek başıma geliştiriyor ve sürdürüyorum; bu metinde “ben” geliştiriciyi ifade eder.
 
@@ -24,10 +24,20 @@ Sorunuz, o sohbetteki önceki mesajlar, sorduğunuz ayetin veya kelimenin metni 
 
 Abonelik [Google Play](https://play.google.com/about/play-terms/) üzerinden yapılır. Ödeme bilgilerinizi [Google](https://policies.google.com/privacy) işler, ben göremem. Sunucum, aboneliği Google ile doğrulamak ve Premium’u açmak için uygulamadan satın alma bilgilerini (ürün kimliği ve satın alma jetonu) alır.
 
+## Ezber ve «Ezberden» modu
+
+«Ezber» bölümünde ilerlemeniz (hangi sureleri ezberlediğiniz, mod ve yüzde) yalnızca cihazınızda saklanır ve sunucuya gönderilmez. «Ayeti kur» modu hiçbir veri göndermez.
+
+«Ezberden» modunda uygulama, sureyi ezberden okuyuşunuzu dinler ve metinle karşılaştırır. Bunun için mikrofon gerekir: modu ilk kez açtığınızda uygulama izin ister ve mikrofon yalnızca kontrol sırasında çalışır. Ses kaydı saklanmaz ve bana gönderilmez.
+
+- Tanıma modelini indirdiyseniz («Ezberden» modundaki düğme, yaklaşık 60 MB), okuyuşunuz internet olmadan doğrudan telefonda tanınır. Model, Tarteel AI’ın whisper-base-ar-quran modelidir (Apache-2.0 lisansı); [Hugging Face](https://huggingface.co/privacy)’ten indirilir.
+- Model indirilene kadar telefonun yerleşik konuşma tanıyıcısı kullanılır (Android’de Google, iPhone’da Apple). Bu tanıyıcı sesi kendi şirketinin sunucularına o şirketin kurallarına göre gönderebilir: [Google](https://policies.google.com/privacy), [Apple](https://www.apple.com/legal/privacy/).
+
 ## İndirilen metinler ve ses
 
 - Arayüz metinleri, kelime çevirileri ve bu belge [GitHub’dan](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement) (raw.githubusercontent.com) indirilir.
 - Ayet sesleri [everyayah.com](https://everyayah.com)’dan, sure sesleri ve okuyucu listesi [mp3quran.net](https://mp3quran.net)’ten yüklenir.
+- «Ezberden» modu için tanıma modeli, yalnızca siz indirirseniz [Hugging Face](https://huggingface.co/privacy)’ten indirilir.
 
 Bu hizmetler, herhangi bir siteyi açtığınızda olduğu gibi IP adresinizi görür. Onlarla sizinle ilgili başka bilgi paylaşmam.
 
@@ -35,7 +45,7 @@ Bu hizmetler, herhangi bir siteyi açtığınızda olduğu gibi IP adresinizi g�
 
 - Reklam göstermem ve reklam kimlikleri kullanmam.
 - Verilerinizi satmam ve pazarlama amacıyla paylaşmam.
-- Kişilerinize, kameranıza, mikrofonunuza ve konumunuza erişim istemem.
+- Kişilerinize, kameranıza ve konumunuza erişim istemem. Mikrofon yalnızca «Ezberden» modu için ve yalnızca izninizle kullanılır.
 
 ## Saklama ve silme
 
