@@ -318,6 +318,10 @@
    "hint_err": "Mistake — ayah again",
    "hint_errSub": "The ayah hides again — recite it from the start.",
    "hint_start": "Start"
+  },
+  "rate": {
+   "title": "Rate the 114 app",
+   "cancel": "Cancel"
   }
  },
  "surahs": {

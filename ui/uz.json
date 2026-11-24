@@ -318,6 +318,10 @@
    "hint_err": "Xato — oyat boshidan",
    "hint_errSub": "Oyat soʻzlari yana yashiriladi — boshidan oʻqing.",
    "hint_start": "Boshlash"
+  },
+  "rate": {
+   "title": "114 ilovasini baholang",
+   "cancel": "Bekor qilish"
   }
  },
  "surahs": {

@@ -318,6 +318,10 @@
    "hint_err": "Hata — ayet baştan",
    "hint_errSub": "Ayetin kelimeleri yeniden gizlenir — baştan okuyun.",
    "hint_start": "Başla"
+  },
+  "rate": {
+   "title": "114 uygulamasını değerlendirin",
+   "cancel": "İptal"
   }
  },
  "surahs": {
